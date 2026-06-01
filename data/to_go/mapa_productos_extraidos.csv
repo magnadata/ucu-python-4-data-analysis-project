@@ -1,0 +1,428 @@
+﻿Producto,producto_base,tipo_producto,marca,presentacion,presentacion_valor,presentacion_unidad,especificacion,es_producto_valido,requiere_revision
+Aceite de girasol Marca Propia Envase 900 cc,Aceite de girasol Marca Propia,Aceite de girasol,Marca Propia,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Marcas Propias Envase 900 cc,Aceite de girasol Marcas Propias,Aceite de girasol,Marcas Propias,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Precio Líder Envase 900 cc,Aceite de girasol Precio Líder,Aceite de girasol,Precio Lider,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Río de la Plata Envase 900 cc,Aceite de girasol Río de la Plata,Aceite de girasol,Río de la Plata,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Tata Envase 900 cc,Aceite de girasol Tata,Aceite de girasol,Tata,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Tienda Inglesa Envase 900 cc,Aceite de girasol Tienda Inglesa,Aceite de girasol,Tienda Inglesa,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Uruguay Envase 900 cc,Aceite de girasol Uruguay,Aceite de girasol,Uruguay,Envase 900 cc,900.0,CC,,True,False
+Aceite de girasol Óptimo Envase 900 cc,Aceite de girasol Óptimo,Aceite de girasol,Óptimo,Envase 900 cc,900.0,CC,,True,False
+Aceite de maíz Delicia Envase 900 cc,Aceite de maíz Delicia,Aceite de maiz,Delicia,Envase 900 cc,900.0,CC,,True,False
+Aceite de maíz Río de la Plata Envase 900 cc,Aceite de maíz Río de la Plata,Aceite de maiz,Río de la Plata,Envase 900 cc,900.0,CC,,True,False
+Aceite de soja Condesa Envase 900 cc,Aceite de soja Condesa,Aceite de soja,Condesa,Envase 900 cc,900.0,CC,,True,False
+Aceite de soja Río de la Plata Envase 900 cc,Aceite de soja Río de la Plata,Aceite de soja,Río de la Plata,Envase 900 cc,900.0,CC,,True,False
+aceite girasol Devoto (envase 900 cc),aceite girasol Devoto,Aceite girasol,Devoto,envase 900 cc,900.0,CC,,True,False
+aceite girasol Rio de la plata (envase 900 cc),aceite girasol Rio de la plata,Aceite girasol,Río de la Plata,envase 900 cc,900.0,CC,,True,False
+aceite girasol Tata (envase 900 cc),aceite girasol Tata,Aceite girasol,Tata,envase 900 cc,900.0,CC,,True,False
+aceite girasol Tienda inglesa (envase 900 cc),aceite girasol Tienda inglesa,Aceite girasol,Tienda Inglesa,envase 900 cc,900.0,CC,,True,False
+aceite girasol Uruguay (envase 900 cc),aceite girasol Uruguay,Aceite girasol,Uruguay,envase 900 cc,900.0,CC,,True,False
+aceite girasol Optimo (envase 900 cc),aceite girasol Optimo,Aceite girasol,Óptimo,envase 900 cc,900.0,CC,,True,False
+aceite maiz Delicia (envase 900 cc),aceite maiz Delicia,Aceite maiz,Delicia,envase 900 cc,900.0,CC,,True,False
+aceite maiz Rio de la plata (envase 900 cc),aceite maiz Rio de la plata,Aceite maiz,Río de la Plata,envase 900 cc,900.0,CC,,True,False
+aceite soja Condesa (envase 900 cc),aceite soja Condesa,Aceite soja,Condesa,envase 900 cc,900.0,CC,,True,False
+aceite soja Rio de la plata (envase 900 cc),aceite soja Rio de la plata,Aceite soja,Río de la Plata,envase 900 cc,900.0,CC,,True,False
+"Afeitadora Gillette Mach3 Dispenser X2, 2us.",Afeitadora Gillette Mach3,Afeitadora,Gillette,"Dispenser X2, 2us.",2.0,UNIDADES,Mach 3,True,False
+"Afeitadora Xtreme3 Piel Delicada X1, 1 unidad",Afeitadora Xtreme3 Piel Delicada X1,Afeitadora,Xtreme3,1 unidad,1.0,UNIDADES,Piel Delicada X 1,True,False
+afeitadora descartable Gillette (2 unidades),afeitadora descartable Gillette,Afeitadora descartable,Gillette,2 unidades,2.0,UNIDADES,,True,False
+afeitadora descartable Schick (1 unidad),afeitadora descartable Schick,Afeitadora descartable,Schick,1 unidad,1.0,UNIDADES,,True,False
+Agua de mesa con gas Matutina Envase 2 lt.,Agua de mesa con gas Matutina,Agua de mesa con gas,Matutina,Envase 2 lt.,2.0,LT,,True,False
+Agua de mesa con gas Nativa Envase 2 lt.,Agua de mesa con gas Nativa,Agua de mesa con gas,Nativa,Envase 2 lt.,2.0,LT,,True,False
+"Agua de mesa con gas Salus Envase 2,25 lt.",Agua de mesa con gas Salus,Agua de mesa con gas,Salus,"Envase 2,25 lt.",2.25,LT,,True,False
+"Agua de mesa sin gas Matutina 2,5 lts",Agua de mesa sin gas Matutina,Agua de mesa sin gas,Matutina,"2,5 lts",5.0,LT,,True,False
+"Agua de mesa sin gas Salus 2,25 lts",Agua de mesa sin gas Salus,Agua de mesa sin gas,Salus,"2,25 lts",2.25,LT,,True,False
+"Agua de mesa sin gas Vitale 2,5 lts",Agua de mesa sin gas Vitale,Agua de mesa sin gas,Vitale,"2,5 lts",5.0,LT,,True,False
+"agua mineral con gas Matutina (envase 2,5 lt.)",agua mineral con gas Matutina,Agua mineral con gas,Matutina,"envase 2,5 lt.",2.25,LT,,True,False
+"agua mineral con gas Nativa (envase 2,5 lt.)",agua mineral con gas Nativa,Agua mineral con gas,Nativa,"envase 2,5 lt.",2.25,LT,,True,False
+"agua mineral con gas Salus (envase 2,25 lt.)",agua mineral con gas Salus,Agua mineral con gas,Salus,"envase 2,25 lt.",2.25,LT,,True,False
+"agua mineral sin gas Matutina (envase 2,5lt.)",agua mineral sin gas Matutina,Agua mineral sin gas,Matutina,"envase 2,5lt.",5.0,LT,,True,False
+agua mineral sin gas Nativa (envase 6lt.),agua mineral sin gas Nativa,Agua mineral sin gas,Nativa,envase 6lt.,6.0,LT,,True,False
+"agua mineral sin gas Salus (envase 2,25lt.)",agua mineral sin gas Salus,Agua mineral sin gas,Salus,"envase 2,25lt.",25.0,LT,,True,False
+"agua mineral sin gas Salus (envase 6,25lt.)",agua mineral sin gas Salus,Agua mineral sin gas,Salus,"envase 6,25lt.",6.25,LT,,True,False
+"agua mineral sin gas Vitale (envase 2,5lt.)",agua mineral sin gas Vitale,Agua mineral sin gas,Vitale,"envase 2,5lt.",5.0,LT,,True,False
+Agua mineral sin gas(bidón) Nativa 6lts,Agua mineral sin gas(bidón) Nativa,Agua mineral sin gas bidon,Nativa,6lts,6.0,LT,,True,False
+"Agua mineral sin gas(bidón) Salus 6,25lts",Agua mineral sin gas(bidón) Salus,Agua mineral sin gas bidon,Salus,"6,25lts",6.25,LT,,True,False
+aguja con hueso Sin marca (1 kg.),aguja con hueso Sin marca,Aguja con hueso,Sin marca,1 kg.,1.0,KG,,True,False
+aguja sin hueso Sin marca (1 kg.),aguja sin hueso Sin marca,Aguja sin hueso,Sin marca,1 kg.,1.0,KG,,True,False
+Aguja vacuna Con Hueso - Sin Marca 1 kg.,Aguja vacuna Con Hueso - Sin Marca,Aguja vacuna,Sin marca,1 kg.,1.0,KG,Con Hueso,True,False
+Aguja vacuna Sin Hueso - Sin Marca 1 kg.,Aguja vacuna Sin Hueso - Sin Marca,Aguja vacuna,Sin marca,1 kg.,1.0,KG,Sin Hueso,True,False
+Alcohol en gel Bioset 250 ml.,Alcohol en gel Bioset,Alcohol en gel,Bioset,250 ml.,250.0,ML,,True,False
+alcohol en gel alcohol en gel Bioset (250 ml.),alcohol en gel alcohol en gel Bioset,Alcohol en gel,Bioset,250 ml.,250.0,ML,,True,False
+Alcohol rectificado Droguería Paysandú 250 ml.,Alcohol rectificado Droguería Paysandú,Alcohol rectificado,Drogueria Paysandu,250 ml.,250.0,ML,,True,False
+alcohol rectificado alcohol rectificado Drogueria paysandu (250 ml.),alcohol rectificado alcohol rectificado Drogueria paysandu,Alcohol rectificado,Drogueria Paysandu,250 ml.,250.0,ML,,True,False
+Algodón Zig Zag Cisne 100 gr.,Algodón Zig Zag Cisne,Algodon,Zig Zag Cisne,100 gr.,100.0,GR,,True,False
+algodon algodon Zig zag cisne (100 grs.),algodon algodon Zig zag cisne,Algodon,Zig Zag Cisne,100 grs.,100.0,GR,,True,False
+Arroz blanco Aruba tipo Patna Bolsa 1 kg.,Arroz blanco Aruba tipo Patna,Arroz blanco,Aruba,Bolsa 1 kg.,1.0,KG,Tipo Patna,True,False
+Arroz blanco Blue Patna Bolsa 1 kg.,Arroz blanco Blue Patna,Arroz blanco,Blue Patna,Bolsa 1 kg.,1.0,KG,,True,False
+Arroz blanco Green Chef Bolsa 1 kg.,Arroz blanco Green Chef,Arroz blanco,Green Chef,Bolsa 1 kg.,1.0,KG,,True,False
+Arroz blanco Pony Bolsa 1 kg.,Arroz blanco Pony,Arroz blanco,Pony,Bolsa 1 kg.,1.0,KG,,True,False
+Arroz blanco Saman Blanco Bolsa 1 kg.,Arroz blanco Saman Blanco,Arroz blanco,Saman Blanco,Bolsa 1 kg.,1.0,KG,,True,False
+Arroz blanco Vidarroz Bolsa 1 kg.,Arroz blanco Vidarroz,Arroz blanco,Vidarroz,Bolsa 1 kg.,1.0,KG,,True,False
+arroz calidad alta Blue patna (bolsa 1 kg.),arroz calidad alta Blue patna,Arroz calidad alta,Blue Patna,bolsa 1 kg.,1.0,KG,,True,False
+arroz calidad alta Green chef (bolsa 1 kg.),arroz calidad alta Green chef,Arroz calidad alta,Green Chef,bolsa 1 kg.,1.0,KG,,True,False
+arroz calidad alta Saman blanco (bolsa 1 kg.),arroz calidad alta Saman blanco,Arroz calidad alta,Saman Blanco,bolsa 1 kg.,1.0,KG,,True,False
+arroz calidad media Aruba (bolsa 1 kg.),arroz calidad media Aruba,Arroz calidad media,Aruba,bolsa 1 kg.,1.0,KG,,True,False
+arroz calidad media Pony (bolsa 1 kg.),arroz calidad media Pony,Arroz calidad media,Pony,bolsa 1 kg.,1.0,KG,,True,False
+arroz calidad media Vidarroz (bolsa 1 kg.),arroz calidad media Vidarroz,Arroz calidad media,Vidarroz,bolsa 1 kg.,1.0,KG,,True,False
+Arvejas en conserva Cololó Lata 380 grs.,Arvejas en conserva Cololó,Arvejas en conserva,Cololó,Lata 380 grs.,380.0,GR,,True,False
+arvejas en conserva Cololo (lata 380 grs.),arvejas en conserva Cololo,Arvejas en conserva,Cololó,lata 380 grs.,380.0,GR,,True,False
+Arvejas en conserva Nidemar Lata 300 grs.,Arvejas en conserva Nidemar,Arvejas en conserva,Nidemar,Lata 300 grs.,300.0,GR,,True,False
+arvejas en conserva Nidemar (lata 300 grs.),arvejas en conserva Nidemar,Arvejas en conserva,Nidemar,lata 300 grs.,300.0,GR,,True,False
+azucar blanca Azucarlito (paquete 1 kg.),azucar blanca Azucarlito,Azucar blanca,Azucarlito,paquete 1 kg.,1.0,KG,,True,False
+azucar blanca Bella union (paquete 1 kg.),azucar blanca Bella union,Azucar blanca,Bella Unión,paquete 1 kg.,1.0,KG,,True,False
+Azúcar blanco Azucarlito Paquete 1 kg.,Azúcar blanco Azucarlito,Azucar blanco,Azucarlito,Paquete 1 kg.,1.0,KG,,True,False
+Azúcar blanco Bella Unión Paquete 1 kg.,Azúcar blanco Bella Unión,Azucar blanco,Bella Unión,Paquete 1 kg.,1.0,KG,,True,False
+"Banana Brasil, 1 kg.",Banana Brasil,Banana,Sin marca,1 kg.,1.0,KG,Brasil,True,False
+"Banana Ecuador, 1 kg.",Banana Ecuador,Banana,Sin marca,1 kg.,1.0,KG,Ecuador,True,False
+banana brasil Sin marca (1 kg.),banana brasil Sin marca,Banana,Sin marca,1 kg.,1.0,KG,Brasil,True,False
+banana ecuador Sin marca (1 kg.),banana ecuador Sin marca,Banana,Sin marca,1 kg.,1.0,KG,Ecuador,True,False
+Café envasado (no instantáneo) Chaná Paquete 250 grs.,Café envasado (no instantáneo) Chaná,Cafe envasado no instantaneo,Chaná,Paquete 250 grs.,250.0,GR,,True,False
+Café envasado (no instantáneo) Saint Paquete 250 grs.,Café envasado (no instantáneo) Saint,Cafe envasado no instantaneo,Saint,Paquete 250 grs.,250.0,GR,,True,False
+Café envasado (no instantáneo) Águila Paquete 250 grs.,Café envasado (no instantáneo) Águila,Cafe envasado no instantaneo,Águila,Paquete 250 grs.,250.0,GR,,True,False
+cafe instantaneo El chana (paquete 250 grs.),cafe instantaneo El chana,Cafe instantaneo,Chaná,paquete 250 grs.,250.0,GR,El,True,False
+cafe instantaneo Saint (paquete 250 grs.),cafe instantaneo Saint,Cafe instantaneo,Saint,paquete 250 grs.,250.0,GR,,True,False
+cafe instantaneo Aguila (paquete 250 grs.),cafe instantaneo Aguila,Cafe instantaneo,Águila,paquete 250 grs.,250.0,GR,,True,False
+carne picada hasta 20% de grasa Sin marca (1 kg.),carne picada hasta 20% de grasa Sin marca,Carne picada,Sin marca,1 kg.,1.0,KG,Hasta 20% De Grasa,True,False
+carne picada hasta 5% de grasa Sin marca (1 kg.),carne picada hasta 5% de grasa Sin marca,Carne picada,Sin marca,1 kg.,1.0,KG,Hasta 5% De Grasa,True,False
+Carne picada vacuna Con Hasta 20% de grasa 1 kg.,Carne picada vacuna Con Hasta 20% de grasa,Carne picada vacuna,Sin marca,1 kg.,1.0,KG,Con Hasta 20% De Grasa,True,False
+Carne picada vacuna Con Hasta 5% de grasa 1 kg.,Carne picada vacuna Con Hasta 5% de grasa,Carne picada vacuna,Sin marca,1 kg.,1.0,KG,Con Hasta 5% De Grasa,True,False
+Cerveza Patricia Botella 960 ml.,Cerveza Patricia,Cerveza,Patricia,Botella 960 ml.,960.0,ML,,True,False
+Cerveza Pilsen Botella 960 ml.,Cerveza Pilsen,Cerveza,Pilsen,Botella 960 ml.,960.0,ML,,True,False
+Cerveza Zillertal Botella 1 lt.,Cerveza Zillertal,Cerveza,Zillertal,Botella 1 lt.,1.0,LT,,True,False
+cerveza rubia Patricia (botella 960 ml.),cerveza rubia Patricia,Cerveza rubia,Patricia,botella 960 ml.,960.0,ML,,True,False
+cerveza rubia Pilsen (botella 960 ml.),cerveza rubia Pilsen,Cerveza rubia,Pilsen,botella 960 ml.,960.0,ML,,True,False
+cerveza rubia Zillertal (botella 1 lt.),cerveza rubia Zillertal,Cerveza rubia,Zillertal,botella 1 lt.,1.0,LT,,True,False
+"Champú Dove, 400 ml.",Champú Dove,Champu,Dove,400 ml.,400.0,ML,,True,False
+Champú Fructis Envase 350 ml.,Champú Fructis,Champu,Fructis,Envase 350 ml.,350.0,ML,,True,False
+"Champú Pantene, 400 ml.",Champú Pantene,Champu,Pantene,400 ml.,400.0,ML,,True,False
+Champú Sedal Envase 350 ml.,Champú Sedal,Champu,Sedal,Envase 350 ml.,350.0,ML,,True,False
+Champú Suave Envase 930 ml.,Champú Suave,Champu,Suave,Envase 930 ml.,930.0,ML,,True,False
+chorizo suelto Cattivelli-extra (1 kg.),chorizo suelto Cattivelli-extra,Chorizo suelto,Cattivelli,1 kg.,1.0,KG,Extra,True,False
+chorizo suelto Centenario-extra (1 kg.),chorizo suelto Centenario-extra,Chorizo suelto,Centenario,1 kg.,1.0,KG,Extra,True,False
+chorizo suelto La familia - hilo amarillo (1 kg.),chorizo suelto La familia - hilo amarillo,Chorizo suelto,La Familia,1 kg.,1.0,KG,Hilo Amarillo,True,False
+Chorizos mezcla sueltos - Cattivelli - Extra 1 kg.,Chorizos mezcla sueltos - Cattivelli - Extra,Chorizos mezcla sueltos,Cattivelli,1 kg.,1.0,KG,Extra,True,False
+Chorizos mezcla sueltos - Centenario - Extra 1 kg.,Chorizos mezcla sueltos - Centenario - Extra,Chorizos mezcla sueltos,Centenario,1 kg.,1.0,KG,Extra,True,False
+Chorizos mezcla sueltos - La Familia - Hilo amarillo 1 kg.,Chorizos mezcla sueltos - La Familia - Hilo amarillo,Chorizos mezcla sueltos,La Familia,1 kg.,1.0,KG,Hilo Amarillo,True,False
+Cinta adhesiva Ready Plast 1 unidad,Cinta adhesiva Ready Plast,Cinta adhesiva,Ready Plast,1 unidad,1.0,UNIDADES,,True,False
+cinta adhesiva leuco Ready plast (1 unidad),cinta adhesiva leuco Ready plast,Cinta adhesiva leuco,Ready Plast,1 unidad,1.0,UNIDADES,,True,False
+Cocoa Copacabana Envase 500 grs.,Cocoa Copacabana,Cocoa,Copacabana,Envase 500 grs.,500.0,GR,,True,False
+Cocoa Vascolet Envase 500 grs.,Cocoa Vascolet,Cocoa,Vascolet,Envase 500 grs.,500.0,GR,,True,False
+cocoa comun Copacabana (envase 500 grs.),cocoa comun Copacabana,Cocoa comun,Copacabana,Envase 500 grs.,500.0,GR,,True,False
+cocoa comun Vascolet (envase 500 grs.),cocoa comun Vascolet,Cocoa comun,Vascolet,Envase 500 grs.,500.0,GR,,True,False
+"Crema Facial Asepxia Emergencia Color Piel, 28 grs.",Crema Facial Asepxia Emergencia Color Piel,Crema facial,Asepxia,28 grs.,28.0,GR,Emergencia Color Piel,True,False
+crema facial Aspexia (28 grs.),crema facial Aspexia,Crema facial,Aspexia,28 grs.,28.0,GR,,True,False
+"Crema Facial Revitalift Filler Dia, 50 ml.",Crema Facial Revitalift Filler Dia,Crema facial,Revitalift,50 ml.,50.0,ML,Filler Dia,True,False
+crema facial Revitalift (50 ml.),crema facial Revitalift,Crema facial,Revitalift,50 ml.,50.0,ML,,True,False
+Curitas Ready Plast 8 us.,Curitas Ready Plast,Curitas,Ready Plast,8 unidades,8.0,UNIDADES,,True,False
+curitas curitas Ready plast (8 unidades),curitas curitas Ready plast,Curitas,Ready Plast,8 unidades,8.0,UNIDADES,,True,False
+desodorante aerosol Axe musk (envase 113 grs.),desodorante aerosol Axe musk,Desodorante aerosol,Axe,Envase 113 grs.,113.0,GR,Musk,True,False
+desodorante aerosol Dove original (envase 100 grs.),desodorante aerosol Dove original,Desodorante aerosol,Dove,Envase 100 grs.,100.0,GR,Original,True,False
+desodorante aerosol Rexona active emotion (envase 105 grs.),desodorante aerosol Rexona active emotion,Desodorante aerosol,Rexona,Envase 105 grs.,105.0,GR,Active Emotion,True,False
+Desodorante en aerosol Axe Musk Envase 113 grs.,Desodorante en aerosol Axe Musk,Desodorante en aerosol,Axe,Envase 113 grs.,113.0,GR,Musk,True,False
+Desodorante en aerosol Dove Original Envase 100 grs.,Desodorante en aerosol Dove Original,Desodorante en aerosol,Dove,Envase 100 grs.,100.0,GR,Original,True,False
+Desodorante en aerosol Rexona Active Emotion Envase 105 grs.,Desodorante en aerosol Rexona Active Emotion,Desodorante en aerosol,Rexona,Envase 105 grs.,105.0,GR,Active Emotion,True,False
+detergente comun Deterjane limon (envase 1.250 lt.),detergente comun Deterjane limon,Detergente comun,Deterjane,Envase 1.250 lt.,250.0,LT,Limon,True,False
+detergente comun Hurra nevex limon (envase 1.250 lt.),detergente comun Hurra nevex limon,Detergente comun,Hurra Nevex,Envase 1.250 lt.,250.0,LT,Limon,True,False
+detergente comun Protergente (envase 1 lt.),detergente comun Protergente,Detergente comun,Protergente,Envase 1 lt.,1.0,LT,,True,False
+Detergente para vajilla Deterjane limón Envase 1.250 lt.,Detergente para vajilla Deterjane limón,Detergente para vajilla,Deterjane,Envase 1.250 lt.,250.0,LT,Limon,True,False
+Detergente para vajilla Hurra Nevex Limón Envase 1.250 lt.,Detergente para vajilla Hurra Nevex Limón,Detergente para vajilla,Hurra Nevex,Envase 1.250 lt.,250.0,LT,Limon,True,False
+Detergente para vajilla Protergente limón Envase 1 lt.,Detergente para vajilla Protergente limón,Detergente para vajilla,Protergente,Envase 1 lt.,1.0,LT,Limon,True,False
+Dulce de leche Conaprole Envase 1 kg.,Dulce de leche Conaprole,Dulce de leche,Conaprole,Envase 1 kg.,1.0,KG,,True,False
+dulce de leche Conaprole (envase 1 kg.),dulce de leche Conaprole,Dulce de leche,Conaprole,Envase 1 kg.,1.0,KG,,True,False
+Dulce de leche Los Nietitos Envase 1 kg.,Dulce de leche Los Nietitos,Dulce de leche,Los Nietitos,Envase 1 kg.,1.0,KG,,True,False
+dulce de leche Los nietitos (envase 1 kg.),dulce de leche Los nietitos,Dulce de leche,Los Nietitos,Envase 1 kg.,1.0,KG,,True,False
+Dulce de leche Manjar Envase 1 kg.,Dulce de leche Manjar,Dulce de leche,Manjar,Envase 1 kg.,1.0,KG,,True,False
+dulce de leche Manjar (envase 1 kg.),dulce de leche Manjar,Dulce de leche,Manjar,Envase 1 kg.,1.0,KG,,True,False
+Dulce de membrillo Los Nietitos Envase 400 grs.,Dulce de membrillo Los Nietitos,Dulce de membrillo,Los Nietitos,Envase 400 grs.,400.0,GR,,True,False
+dulce de membrillo Los nietitos (envase 400 grs.),dulce de membrillo Los nietitos,Dulce de membrillo,Los Nietitos,Envase 400 grs.,400.0,GR,,True,False
+Fideos secos al huevo Adria Paquete 500 grs.,Fideos secos al huevo Adria,Fideos secos al huevo,Adria,Paquete 500 grs.,500.0,GR,,True,False
+fideos secos al huevo Adria (paquete 500 grs.),fideos secos al huevo Adria,Fideos secos al huevo,Adria,Paquete 500 grs.,500.0,GR,,True,False
+Fideos secos al huevo Cololó Paquete 500 grs.,Fideos secos al huevo Cololó,Fideos secos al huevo,Cololó,Paquete 500 grs.,500.0,GR,,True,False
+fideos secos al huevo Cololo (paquete 500 grs.),fideos secos al huevo Cololo,Fideos secos al huevo,Cololó,paquete 500 grs.,500.0,GR,,True,False
+Fideos secos al huevo Las Acacias Paquete 500 grs.,Fideos secos al huevo Las Acacias,Fideos secos al huevo,Las Acacias,Paquete 500 grs.,500.0,GR,,True,False
+fideos secos al huevo Las acacias (paquete 500 grs.),fideos secos al huevo Las acacias,Fideos secos al huevo,Las Acacias,paquete 500 grs.,500.0,GR,,True,False
+Fideos secos semolados Adria Paquete 500 grs.,Fideos secos semolados Adria,Fideos secos semolados,Adria,Paquete 500 grs.,500.0,GR,,True,False
+fideos secos semolados Adria (paquete 500 grs.),fideos secos semolados Adria,Fideos secos semolados,Adria,Paquete 500 grs.,500.0,GR,,True,False
+Fideos secos semolados Las Acacias - franja celeste Paquete 500 grs.,Fideos secos semolados Las Acacias - franja celeste,Fideos secos semolados,Las Acacias,Paquete 500 grs.,500.0,GR,Franja Celeste,True,False
+fideos secos semolados Las acacias (paquete 500 grs.),fideos secos semolados Las acacias,Fideos secos semolados,Las Acacias,paquete 500 grs.,500.0,GR,,True,False
+frankfurter cortos Centenario (paquete 8 us.),frankfurter cortos Centenario,Frankfurter cortos,Centenario,Paquete 8 us.,8.0,UNIDADES,,True,False
+frankfurter cortos Ottonello (paquete 8 us.),frankfurter cortos Ottonello,Frankfurter cortos,Ottonello,Paquete 8 us.,8.0,UNIDADES,,True,False
+frankfurter cortos Schneck (paquete 8 us.),frankfurter cortos Schneck,Frankfurter cortos,Schneck,Paquete 8 us.,8.0,UNIDADES,,True,False
+Frankfurters cortos Centenario Paquete 8 us.,Frankfurters cortos Centenario,Frankfurters cortos,Centenario,Paquete 8 us.,8.0,UNIDADES,,True,False
+Frankfurters cortos Ottonello Paquete 8 us.,Frankfurters cortos Ottonello,Frankfurters cortos,Ottonello,Paquete 8 us.,8.0,UNIDADES,,True,False
+Frankfurters cortos Schneck Paquete 8 us.,Frankfurters cortos Schneck,Frankfurters cortos,Schneck,Paquete 8 us.,8.0,UNIDADES,,True,False
+galletas saladas al agua El maestro cubano (paquete 120 grs.),galletas saladas al agua El maestro cubano,Galletas saladas al agua,El Maestro Cubano,Paquete 120 grs.,120.0,GR,,True,False
+galletas saladas al agua Famosa (paquete 140 grs.),galletas saladas al agua Famosa,Galletas saladas al agua,Famosa,Paquete 140 grs.,140.0,GR,,True,False
+Galletitas al agua Famosa Paquete 140 grs.,Galletitas al agua Famosa,Galletitas al agua,Famosa,Paquete 140 grs.,140.0,GR,,True,False
+Galletitas al agua Maestro Cubano Paquete 120 grs.,Galletitas al agua Maestro Cubano,Galletitas al agua,Maestro Cubano,Paquete 120 grs.,120.0,GR,,True,False
+Gasa estéril 40 us.,Gasa estéril,Gasa esteril,Sin marca,40 unidades,40.0,UNIDADES,,True,False
+gasa esteril gasa esteril Sin marca (40 unidades),gasa esteril gasa esteril Sin marca,Gasa esteril,Sin marca,40 unidades,40.0,UNIDADES,,True,False
+"gaseosa cola Coca-cola (botella 1,5 lt.)",gaseosa cola Coca-cola,Gaseosa cola,Coca-Cola,"Botella 1,5 lt.",5.0,LT,,True,False
+"gaseosa cola Coca-cola (botella 2,25.lt.)",gaseosa cola Coca-cola,Gaseosa cola,Coca-Cola,"Botella 2,25.lt.",2.5,LT,,True,False
+"gaseosa cola Pepsi-cola (botella 1,5 lt.)",gaseosa cola Pepsi-cola,Gaseosa cola,Pepsi-Cola,"Botella 1,5 lt.",5.0,LT,,True,False
+gaseosa cola Pepsi-cola (botella 2 lt.),gaseosa cola Pepsi-cola,Gaseosa cola,Pepsi-Cola,Botella 2 lt.,2.0,LT,,True,False
+"Gaseosa tipo cola (env. no ret.) Coca Cola Botella 1,5 lt.",Gaseosa tipo cola (env. no ret.) Coca Cola,Gaseosa tipo cola env no ret,Coca-Cola,"Botella 1,5 lt.",5.0,LT,,True,False
+"Gaseosa tipo cola (env. no ret.) Coca Cola_ Botella 2,25.lt.",Gaseosa tipo cola (env. no ret.) Coca Cola_,Gaseosa tipo cola env no ret,Coca-Cola,"Botella 2,25.lt.",2.5,LT,,True,False
+"Gaseosa tipo cola (env. no ret.) Pepsi Botella 1,5 lt.",Gaseosa tipo cola (env. no ret.) Pepsi,Gaseosa tipo cola env no ret,Pepsi,"Botella 1,5 lt.",5.0,LT,,True,False
+Gaseosa tipo cola (env. no ret.) Pepsi Botella 2 lt.,Gaseosa tipo cola (env. no ret.) Pepsi,Gaseosa tipo cola env no ret,Pepsi,Botella 2 lt.,2.0,LT,,True,False
+hamburguesa carne vacuna Burgy (paquete 3 unidades),hamburguesa carne vacuna Burgy,Hamburguesa carne vacuna,Burgy,Paquete 3 unidades,3.0,UNIDADES,,True,False
+hamburguesa carne vacuna Paty (paquete 2 unidades),hamburguesa carne vacuna Paty,Hamburguesa carne vacuna,Paty,Paquete 2 unidades,2.0,UNIDADES,,True,False
+hamburguesa carne vacuna Schneck (paquete 2 unidades),hamburguesa carne vacuna Schneck,Hamburguesa carne vacuna,Schneck,paquete 2 unidades,2.0,UNIDADES,,True,False
+Hamburguesas carne vacun Burgy Paquete 3 unidades,Hamburguesas carne vacun Burgy,Hamburguesas carne vacun,Burgy,Paquete 3 unidades,3.0,UNIDADES,,True,False
+Hamburguesas carne vacun Paty Paquete 2 unidades,Hamburguesas carne vacun Paty,Hamburguesas carne vacun,Paty,Paquete 2 unidades,2.0,UNIDADES,,True,False
+Hamburguesas carne vacun Schneck Paquete 2 unidades,Hamburguesas carne vacun Schneck,Hamburguesas carne vacun,Schneck,Paquete 2 unidades,2.0,UNIDADES,,True,False
+Harina de maíz Gourmet Paquete 450 grs.,Harina de maíz Gourmet,Harina de maiz,Gourmet,Paquete 450 grs.,450.0,GR,,True,False
+harina de maiz Gourmet (paquete 450 grs.),harina de maiz Gourmet,Harina de maiz,Gourmet,Paquete 450 grs.,450.0,GR,,True,False
+Harina de maíz Presto Pronta Arcor Paquete 500 grs.,Harina de maíz Presto Pronta Arcor,Harina de maiz,Presto Pronta Arcor,Paquete 500 grs.,500.0,GR,,True,False
+harina de maiz Presto pronta arcor (paquete 500 grs.),harina de maiz Presto pronta arcor,Harina de maiz,Presto Pronta Arcor,Paquete 500 grs.,500.0,GR,,True,False
+Harina de maíz Puritas Paquete 450 grs.,Harina de maíz Puritas,Harina de maiz,Puritas,Paquete 450 grs.,450.0,GR,,True,False
+harina de maiz Puritas (paquete 450 grs.),harina de maiz Puritas,Harina de maiz,Puritas,Paquete 450 grs.,450.0,GR,,True,False
+harina de trigo 000 Canuelas (paquete 1 kg.),harina de trigo 000 Canuelas,Harina de trigo 000,Cañuelas,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 000 Cololo (paquete 1 kg.),harina de trigo 000 Cololo,Harina de trigo 000,Cololó,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 Canuelas (paquete 1 kg.),harina de trigo 0000 Canuelas,Harina de trigo 0000,Cañuelas,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 Cololo (paquete 1 kg.),harina de trigo 0000 Cololo,Harina de trigo 0000,Cololó,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 Devoto (paquete 1 kg.),harina de trigo 0000 Devoto,Harina de trigo 0000,Devoto,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 El dorado (paquete 1 kg.),harina de trigo 0000 El dorado,Harina de trigo 0000,El Dorado,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 Primor (paquete 1 kg.),harina de trigo 0000 Primor,Harina de trigo 0000,Primor,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 Tata (paquete 1 kg.),harina de trigo 0000 Tata,Harina de trigo 0000,Tata,Paquete 1 kg.,1.0,KG,,True,False
+harina de trigo 0000 Tienda inglesa (paquete 1 kg.),harina de trigo 0000 Tienda inglesa,Harina de trigo 0000,Tienda Inglesa,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 000 Cañuelas Paquete 1 kg.,Harina trigo común 000 Cañuelas,Harina trigo comun 000,Cañuelas,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 000 Cololó Paquete 1 kg.,Harina trigo común 000 Cololó,Harina trigo comun 000,Cololó,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Cañuelas Paquete 1 kg.,Harina trigo común 0000 Cañuelas,Harina trigo comun 0000,Cañuelas,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Cololó Paquete 1 kg.,Harina trigo común 0000 Cololó,Harina trigo comun 0000,Cololó,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Granja La Sonrisa Paquete 1 kg.,Harina trigo común 0000 Granja La Sonrisa,Harina trigo comun 0000,Granja La Sonrisa,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Marca Propia Paquete 1 kg.,Harina trigo común 0000 Marca Propia,Harina trigo comun 0000,Marca Propia,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Marcas Propias Paquete 1 kg.,Harina trigo común 0000 Marcas Propias,Harina trigo comun 0000,Marcas Propias,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Precio Líder Paquete 1 kg.,Harina trigo común 0000 Precio Líder,Harina trigo comun 0000,Precio Lider,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Primor Paquete 1 kg.,Harina trigo común 0000 Primor,Harina trigo comun 0000,Primor,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Tata Paquete 1 kg.,Harina trigo común 0000 Tata,Harina trigo comun 0000,Tata,Paquete 1 kg.,1.0,KG,,True,False
+Harina trigo común 0000 Tienda Inglesa Paquete 1 kg.,Harina trigo común 0000 Tienda Inglesa,Harina trigo comun 0000,Tienda Inglesa,Paquete 1 kg.,1.0,KG,,True,False
+helado comun Conaprole (envase 1lt.),helado comun Conaprole,Helado comun,Conaprole,envase 1lt.,1.0,LT,,True,False
+helado comun Crufi (envase 1lt.),helado comun Crufi,Helado comun,Crufi,envase 1lt.,1.0,LT,,True,False
+Helado familiar Conaprole Envase 1lt.,Helado familiar Conaprole,Helado familiar,Conaprole,Envase 1lt.,1.0,LT,,True,False
+Helado familiar Crufi Envase 1lt.,Helado familiar Crufi,Helado familiar,Crufi,Envase 1lt.,1.0,LT,,True,False
+Hipoclorito de sodio Agua Jane Botella 1 lt.,Hipoclorito de sodio Agua Jane,Hipoclorito de sodio,Agua Jane,Botella 1 lt.,1.0,LT,,True,False
+Hipoclorito de sodio Sello Rojo Botella 1 lt.,Hipoclorito de sodio Sello Rojo,Hipoclorito de sodio,Sello Rojo,Botella 1 lt.,1.0,LT,,True,False
+Hipoclorito de sodio Solución Cristal Botella 1 lt.,Hipoclorito de sodio Solución Cristal,Hipoclorito de sodio,Solución Cristal,Botella 1 lt.,1.0,LT,,True,False
+hipolclorito de sodio comun Agua jane (botella 1 lt.),hipolclorito de sodio comun Agua jane,Hipolclorito de sodio comun,Agua Jane,Botella 1 lt.,1.0,LT,,True,False
+hipolclorito de sodio comun Sello rojo (botella 1 lt.),hipolclorito de sodio comun Sello rojo,Hipolclorito de sodio comun,Sello Rojo,Botella 1 lt.,1.0,LT,,True,False
+hipolclorito de sodio comun Solucion cristal (botella 1 lt.),hipolclorito de sodio comun Solucion cristal,Hipolclorito de sodio comun,Solución Cristal,Botella 1 lt.,1.0,LT,,True,False
+Huevos colorados El Jefe Envase 1/2 docena,Huevos colorados El Jefe,Huevos colorados,El Jefe,Envase 1/2 docena,6.0,UNIDADES,,True,False
+huevos colorados El jefe (envase 1/2 docena),huevos colorados El jefe,Huevos colorados,El Jefe,Envase 1/2 docena,6.0,UNIDADES,,True,False
+Huevos colorados Prodhin Envase 1/2 docena,Huevos colorados Prodhin,Huevos colorados,Prodhin,Envase 1/2 docena,6.0,UNIDADES,,True,False
+huevos colorados Prodhin (envase 1/2 docena),huevos colorados Prodhin,Huevos colorados,Prodhin,Envase 1/2 docena,6.0,UNIDADES,,True,False
+Huevos colorados Super huevo Envase 1/2 docena,Huevos colorados Super huevo,Huevos colorados,Super Huevo,Envase 1/2 docena,6.0,UNIDADES,,True,False
+huevos colorados Super huevo (envase 1/2 docena),huevos colorados Super huevo,Huevos colorados,Super Huevo,Envase 1/2 docena,6.0,UNIDADES,,True,False
+"Jabón de tocador Ann Bow, 140 grs.",Jabón de tocador Ann Bow,Jabon de tocador,Ann Bow,140 grs.,140.0,GR,,True,False
+Jabón de tocador Astral plata Unidad 125 grs.,Jabón de tocador Astral plata,Jabon de tocador,Astral Plata,Unidad 125 grs.,125.0,GR,,True,False
+"Jabón de tocador Dove Blanco, 90 grs.",Jabón de tocador Dove Blanco,Jabon de tocador,Dove,90 grs.,90.0,GR,Blanco,True,False
+"Jabón de tocador Neutrogena Deep Clean, 80 grs.",Jabón de tocador Neutrogena Deep Clean,Jabon de tocador,Neutrogena,80 grs.,80.0,GR,Deep Clean,True,False
+Jabón de tocador Palmolive Unidad 125 grs.,Jabón de tocador Palmolive,Jabon de tocador,Palmolive,Unidad 125 grs.,125.0,GR,,True,False
+Jabón de tocador Rexona Unidad 125 grs.,Jabón de tocador Rexona,Jabon de tocador,Rexona,Unidad 125 grs.,125.0,GR,,True,False
+jabon de tocador en barra Ann bow (140 grs.),jabon de tocador en barra Ann bow,Jabon de tocador en barra,Ann Bow,140 grs.,140.0,GR,,True,False
+jabon de tocador en barra Astral plata (unidad 125 grs.),jabon de tocador en barra Astral plata,Jabon de tocador en barra,Astral Plata,Unidad 125 grs.,125.0,GR,,True,False
+jabon de tocador en barra Dove original (90 grs.),jabon de tocador en barra Dove original,Jabon de tocador en barra,Dove,90 grs.,90.0,GR,Original,True,False
+jabon de tocador en barra Neutrogena (80 grs.),jabon de tocador en barra Neutrogena,Jabon de tocador en barra,Neutrogena,80 grs.,80.0,GR,,True,False
+jabon de tocador en barra Palmolive (unidad 125 grs.),jabon de tocador en barra Palmolive,Jabon de tocador en barra,Palmolive,unidad 125 grs.,125.0,GR,,True,False
+jabon de tocador en barra Rexona (unidad 125 grs.),jabon de tocador en barra Rexona,Jabon de tocador en barra,Rexona,unidad 125 grs.,125.0,GR,,True,False
+Jabón en polvo máquina Drive Paquete 800 grs.,Jabón en polvo máquina Drive,Jabon en polvo maquina,Drive,Paquete 800 grs.,800.0,GR,,True,False
+Jabón en polvo máquina Nevex Paquete 800 grs.,Jabón en polvo máquina Nevex,Jabon en polvo maquina,Nevex,Paquete 800 grs.,800.0,GR,,True,False
+Jabón en polvo máquina Skip - Paquete azul Paquete 800 grs.,Jabón en polvo máquina Skip -,Jabon en polvo maquina,Skip,Paquete 800 grs.,800.0,GR,,True,False
+Jabón para ropa en barra Bull Dog Unidad 300 grs.,Jabón para ropa en barra Bull Dog,Jabon para ropa en barra,Bull Dog,Unidad 300 grs.,300.0,GR,,True,False
+jabon para ropa en barra Bull dog (unidad 300 grs.),jabon para ropa en barra Bull dog,Jabon para ropa en barra,Bull Dog,unidad 300 grs.,300.0,GR,,True,False
+Jabón para ropa en barra Nevex Unidad 200 grs.,Jabón para ropa en barra Nevex,Jabon para ropa en barra,Nevex,Unidad 200 grs.,200.0,GR,,True,False
+jabon para ropa en barra Nevex (unidad 200 grs.),jabon para ropa en barra Nevex,Jabon para ropa en barra,Nevex,unidad 200 grs.,200.0,GR,,True,False
+Jabón para ropa en barra Primor Unidad 300 grs.,Jabón para ropa en barra Primor,Jabon para ropa en barra,Primor,Unidad 300 grs.,300.0,GR,,True,False
+jabon para ropa en barra Primor (unidad 200 grs.),jabon para ropa en barra Primor,Jabon para ropa en barra,Primor,unidad 200 grs.,200.0,GR,,True,False
+jabon para ropa en polvo para maquina Drive (paquete 800 grs.),jabon para ropa en polvo para maquina Drive,Jabon para ropa en polvo para maquina,Drive,paquete 800 grs.,800.0,GR,,True,False
+jabon para ropa en polvo para maquina Nevex (paquete 800 grs.),jabon para ropa en polvo para maquina Nevex,Jabon para ropa en polvo para maquina,Nevex,paquete 800 grs.,800.0,GR,,True,False
+jabon para ropa en polvo para maquina Skip paquete azul (paquete 800 grs.),jabon para ropa en polvo para maquina Skip paquete azul,Jabon para ropa en polvo para maquina,Skip,paquete 800 grs.,800.0,GR,Paquete Azul,True,False
+jamon cocido Cattivelli (1 kg.),jamon cocido Cattivelli,Jamon cocido,Cattivelli,1 kg.,1.0,KG,,True,False
+jamon cocido Ottonello (1 kg.),jamon cocido Ottonello,Jamon cocido,Ottonello,1 kg.,1.0,KG,,True,False
+Jamón cocido no artesanal Cattivelli 1 kg.,Jamón cocido no artesanal Cattivelli,Jamon cocido no artesanal,Cattivelli,1 kg.,1.0,KG,,True,False
+Jamón cocido no artesanal Ottonello 1 kg.,Jamón cocido no artesanal Ottonello,Jamon cocido no artesanal,Ottonello,1 kg.,1.0,KG,,True,False
+"Lechuga Crespa, 1 unidad",Lechuga Crespa,Lechuga,Sin marca,1 unidad,1.0,UNIDADES,Crespa,True,False
+"Lechuga Mantecosa, 1 unidad",Lechuga Mantecosa,Lechuga,Sin marca,1 unidad,1.0,UNIDADES,Mantecosa,True,False
+lechuga crespa Sin marca (1 unidad),lechuga crespa Sin marca,Lechuga,Sin marca,1 unidad,1.0,UNIDADES,Crespa,True,False
+lechuga mantecosa Sin marca (1 unidad),lechuga mantecosa Sin marca,Lechuga,Sin marca,1 unidad,1.0,UNIDADES,Mantecosa,True,False
+Leonesa Ottonello 1 kg.,Leonesa Ottonello,Leonesa,Ottonello,1 kg.,1.0,KG,,True,False
+Leonesa Schneck 1 kg.,Leonesa Schneck,Leonesa,Schneck,1 kg.,1.0,KG,,True,False
+leonesa comun Schneck (1 kg.),leonesa comun Schneck,Leonesa comun,Schneck,1 kg.,1.0,KG,,True,False
+leonesa de pollo Ottonello (1 kg.),leonesa de pollo Ottonello,Leonesa de pollo,Ottonello,1 kg.,1.0,KG,,True,False
+Manteca Calcar Envase 200 grs.,Manteca Calcar,Manteca,Calcar,Envase 200 grs.,200.0,GR,,True,False
+Manteca Conaprole sin sal Envase 200 grs.,Manteca Conaprole sin sal,Manteca,Conaprole,Envase 200 grs.,200.0,GR,Sin Sal,True,False
+Manteca Kasdorf Envase 200 grs.,Manteca Kasdorf,Manteca,Kasdorf,Envase 200 grs.,200.0,GR,,True,False
+manteca sin sal Calcar (envase 200 grs.),manteca sin sal Calcar,Manteca sin sal,Calcar,envase 200 grs.,200.0,GR,,True,False
+manteca sin sal Conaprole (envase 200 grs.),manteca sin sal Conaprole,Manteca sin sal,Conaprole,envase 200 grs.,200.0,GR,,True,False
+manteca sin sal Kasdorf (envase 200 grs.),manteca sin sal Kasdorf,Manteca sin sal,Kasdorf,envase 200 grs.,200.0,GR,,True,False
+"Manzana Fuji, 1 kg.",Manzana Fuji,Manzana,Sin marca,1 kg.,1.0,KG,Fuji,True,False
+"Manzana Granny Smith, 1 kg.",Manzana Granny Smith,Manzana,Sin marca,1 kg.,1.0,KG,Granny Smith,True,False
+"Manzana Red Deliciosa, 1 kg.",Manzana Red Deliciosa,Manzana,Sin marca,1 kg.,1.0,KG,Red Deliciosa,True,False
+manzana fuji Sin marca (1 kg.),manzana fuji Sin marca,Manzana,Sin marca,1 kg.,1.0,KG,Fuji,True,False
+manzana granny smith Sin marca (1 kg.),manzana granny smith Sin marca,Manzana,Sin marca,1 kg.,1.0,KG,Granny Smith,True,False
+manzana red deliciosa Sin marca (1 kg.),manzana red deliciosa Sin marca,Manzana,Sin marca,1 kg.,1.0,KG,Red Deliciosa,True,False
+Margarina Adorita Envase 250 grs.,Margarina Adorita,Margarina,Adorita,Envase 250 grs.,250.0,GR,,True,False
+Margarina Doriana nueva Envase 250 grs.,Margarina Doriana nueva,Margarina,Doriana Nueva,Envase 250 grs.,250.0,GR,,True,False
+Margarina Qualy Envase 250 grs.,Margarina Qualy,Margarina,Qualy,Envase 250 grs.,250.0,GR,,True,False
+margarina con sal Adorita (envase 250 grs.),margarina con sal Adorita,Margarina con sal,Adorita,envase 250 grs.,250.0,GR,,True,False
+margarina con sal Doriana nueva (envase 250 grs.),margarina con sal Doriana nueva,Margarina con sal,Doriana Nueva,envase 250 grs.,250.0,GR,,True,False
+margarina con sal Qualy (envase 250 grs.),margarina con sal Qualy,Margarina con sal,Qualy,envase 250 grs.,250.0,GR,,True,False
+Mayonesa común Hellmans Envase 500 grs.,Mayonesa común Hellmans,Mayonesa comun,Hellmans,Envase 500 grs.,500.0,GR,,True,False
+mayonesa comun Hellmans (envase 500 grs.),mayonesa comun Hellmans,Mayonesa comun,Hellmans,envase 500 grs.,500.0,GR,,True,False
+Mayonesa común Uruguay Envase 500 grs.,Mayonesa común Uruguay,Mayonesa comun,Uruguay,Envase 500 grs.,500.0,GR,,True,False
+mayonesa comun Uruguay (envase 500 grs.),mayonesa comun Uruguay,Mayonesa comun,Uruguay,envase 500 grs.,500.0,GR,,True,False
+Mermelada de durazno El Hogar Envase 500 grs.,Mermelada de durazno El Hogar,Mermelada de durazno,El Hogar,Envase 500 grs.,500.0,GR,,True,False
+mermelada de durazno El hogar (envase 500 grs.),mermelada de durazno El hogar,Mermelada de durazno,El Hogar,envase 500 grs.,500.0,GR,,True,False
+Mermelada de durazno Los Nietitos Envase 500 grs.,Mermelada de durazno Los Nietitos,Mermelada de durazno,Los Nietitos,Envase 500 grs.,500.0,GR,,True,False
+mermelada de durazno Los nietitos (envase 500 grs.),mermelada de durazno Los nietitos,Mermelada de durazno,Los Nietitos,envase 500 grs.,500.0,GR,,True,False
+nalga sin hueso Sin marca (1 kg.),nalga sin hueso Sin marca,Nalga sin hueso,Sin marca,1 kg.,1.0,KG,,True,False
+Nalga vacuna Con Hueso - Sin Marca 1 kg.,Nalga vacuna Con Hueso - Sin Marca,Nalga vacuna,Sin marca,1 kg.,1.0,KG,Con Hueso,True,False
+Nalga vacuna Sin Hueso - Sin Marca 1 kg.,Nalga vacuna Sin Hueso - Sin Marca,Nalga vacuna,Sin marca,1 kg.,1.0,KG,Sin Hueso,True,False
+"Naranja Navel, 1 kg.",Naranja Navel,Naranja,Sin marca,1 kg.,1.0,KG,Navel,True,False
+"Naranja Valencia, 1 kg.",Naranja Valencia,Naranja,Sin marca,1 kg.,1.0,KG,Valencia,True,False
+naranja navel Sin marca (1 kg.),naranja navel Sin marca,Naranja,Sin marca,1 kg.,1.0,KG,Navel,True,False
+paleta con hueso Sin marca (1 kg.),paleta con hueso Sin marca,Paleta con hueso,Sin marca,1 kg.,1.0,KG,,True,False
+paleta sin hueso Sin marca (1 kg.),paleta sin hueso Sin marca,Paleta sin hueso,Sin marca,1 kg.,1.0,KG,,True,False
+Paleta vacuna Con Hueso - Sin Marca 1 kg.,Paleta vacuna Con Hueso - Sin Marca,Paleta vacuna,Sin marca,1 kg.,1.0,KG,Con Hueso,True,False
+Paleta vacuna Sin Hueso - Sin Marca 1 kg.,Paleta vacuna Sin Hueso - Sin Marca,Paleta vacuna,Sin marca,1 kg.,1.0,KG,Sin Hueso,True,False
+pan de molde Bimbo (paquete 330 grs.),pan de molde Bimbo,Pan de molde,Bimbo,paquete 330 grs.,330.0,GR,,True,False
+pan de molde Los sorchantes (paquete 330 grs.),pan de molde Los sorchantes,Pan de molde,Los Sorchantes,paquete 330 grs.,330.0,GR,,True,False
+pan de molde Pan catalan (paquete 330 grs.),pan de molde Pan catalan,Pan de molde,Pan Catalan,paquete 330 grs.,330.0,GR,,True,False
+Pan de molde lacteado Bimbo Paquete 330 grs.,Pan de molde lacteado Bimbo,Pan de molde lacteado,Bimbo,Paquete 330 grs.,330.0,GR,,True,False
+Pan de molde lacteado Los Sorchantes Paquete 330 grs.,Pan de molde lacteado Los Sorchantes,Pan de molde lacteado,Los Sorchantes,Paquete 330 grs.,330.0,GR,,True,False
+Pan de molde lacteado Pan Catalán Paquete 330 grs.,Pan de molde lacteado Pan Catalán,Pan de molde lacteado,Pan Catalan,Paquete 330 grs.,330.0,GR,,True,False
+Pan flauta Sin marca Unidad aprox215 grs.,Pan flauta Sin marca,Pan flauta,Sin marca,Unidad aprox215 grs.,215.0,GR,,True,False
+pan flauta Sin marca (unidad aprox215 grs.),pan flauta Sin marca,Pan flauta,Sin marca,unidad aprox215 grs.,215.0,GR,,True,False
+"Pañales Babysec Premium Extra Extra Grande, 48 us.",Pañales Babysec Premium Extra Extra Grande,Panales,Babysec,48 us.,48.0,UNIDADES,Premium Extra Extra Grande,True,False
+"Pañales Huggies Primeros 100 Dias Pequeño, 40 us.",Pañales Huggies Primeros 100 Dias Pequeño,Panales,Huggies,40 us.,40.0,UNIDADES,Primeros 100 Dias Pequeno,True,False
+"Pañales Adultos Readysec Grande, 24 us.",Pañales Adultos Readysec Grande,Panales adultos,Readysec,24 us.,24.0,UNIDADES,Grande,True,False
+panales para adultos comun Readysec (24 unidades),panales para adultos comun Readysec,Panales para adultos comun,Readysec,24 unidades,24.0,UNIDADES,,True,False
+panales para ninos comun Babysec (48 unidades),panales para ninos comun Babysec,Panales para ninos comun,Babysec,48 unidades,48.0,UNIDADES,,True,False
+panales para ninos comun Huggies (40 unidades),panales para ninos comun Huggies,Panales para ninos comun,Huggies,40 unidades,40.0,UNIDADES,,True,False
+"Papa Blanca, 1 kg.",Papa Blanca,Papa,Sin marca,1 kg.,1.0,KG,Blanca,True,False
+"Papa Rosada, 1 kg.",Papa Rosada,Papa,Sin marca,1 kg.,1.0,KG,Rosada,True,False
+papa blanca Sin marca (1 kg.),papa blanca Sin marca,Papa,Sin marca,1 kg.,1.0,KG,Blanca,True,False
+papa rosada Sin marca (1 kg.),papa rosada Sin marca,Papa,Sin marca,1 kg.,1.0,KG,Rosada,True,False
+Papel higiénico hoja simple Elite 4 rollos de 30 mts.,Papel higiénico hoja simple Elite,Papel higienico hoja simple,Elite,4 rollos de 30 mts.,4.0,ROLLOS,,True,False
+papel higienico hoja simple Elite (4 rollos de 30 mts.),papel higienico hoja simple Elite,Papel higienico hoja simple,Elite,4 rollos de 30 mts.,4.0,ROLLOS,,True,False
+Papel higiénico hoja simple Higienol Export 4 rollos de 30 mts.,Papel higiénico hoja simple Higienol Export,Papel higienico hoja simple,Higienol Export,4 rollos de 30 mts.,4.0,ROLLOS,,True,False
+papel higienico hoja simple Higienol export (4 rollos de 30 mts.),papel higienico hoja simple Higienol export,Papel higienico hoja simple,Higienol Export,4 rollos de 30 mts.,4.0,ROLLOS,,True,False
+Papel higiénico hoja simple Sin Fin 4 rollos de 50 mts.,Papel higiénico hoja simple Sin Fin,Papel higienico hoja simple,Sin Fin,4 rollos de 50 mts.,4.0,ROLLOS,,True,False
+papel higienico hoja simple Sin fin (4 rollos de 50 mts.),papel higienico hoja simple Sin fin,Papel higienico hoja simple,Sin Fin,4 rollos de 50 mts.,4.0,ROLLOS,,True,False
+Pasta dental Colgate Herbal Blanqueador Unidad 90 grs.,Pasta dental Colgate Herbal Blanqueador,Pasta dental,Colgate,Unidad 90 grs.,90.0,GR,Herbal Blanqueador,True,False
+Pasta dental Kolynos Triple acción Unidad 90 grs.,Pasta dental Kolynos Triple acción,Pasta dental,Kolynos,Unidad 90 grs.,90.0,GR,Triple Accion,True,False
+Pasta dental Pico Jenner Plus Unidad 90 grs.,Pasta dental Pico Jenner Plus,Pasta dental,Pico Jenner,Unidad 90 grs.,90.0,GR,Plus,True,False
+pasta dental comun Colgate herbal blanqueador (90 grs.),pasta dental comun Colgate herbal blanqueador,Pasta dental comun,Colgate,90 grs.,90.0,GR,Herbal Blanqueador,True,False
+pasta dental comun Kolynos triple accion (90 grs.),pasta dental comun Kolynos triple accion,Pasta dental comun,Kolynos,90 grs.,90.0,GR,Triple Accion,True,False
+pasta dental comun Pico jenner plus (90 grs.),pasta dental comun Pico jenner plus,Pasta dental comun,Pico Jenner,90 grs.,90.0,GR,Plus,True,False
+peceto sin hueso Sin marca (1 kg.),peceto sin hueso Sin marca,Peceto sin hueso,Sin marca,1 kg.,1.0,KG,,True,False
+Peceto vacuno Sin Marca 1 kg.,Peceto vacuno Sin Marca,Peceto vacuno,Sin marca,1 kg.,1.0,KG,,True,False
+"Bebe & Co Colonia + Talco, 120 ml.",Bebe & Co Colonia + Talco,Perfume,Bebe & Co,120 ml.,120.0,ML,Colonia Talco,True,False
+"Perfume Casapueblo 24 Heures Blue Edt, 100 ml.",Perfume Casapueblo 24 Heures Blue Edt,Perfume,Casapueblo,100 ml.,100.0,ML,24 Heures Blue Edt,True,False
+"Perfume Delice Candy, 50 ml.",Perfume Delice Candy,Perfume,Delice Candy,50 ml.,50.0,ML,,True,False
+perfume comun Bebe & co. (120 ml.),perfume comun Bebe & co.,Perfume comun,Bebe & Co,120 ml.,120.0,ML,,True,False
+perfume comun Casapueblo (100 ml.),perfume comun Casapueblo,Perfume comun,Casapueblo,100 ml.,100.0,ML,,True,False
+perfume comun Delice candy (50 ml.),perfume comun Delice candy,Perfume comun,Delice Candy,50 ml.,50.0,ML,,True,False
+Pescado fresco bifes de merluz - sin marca 1 kg.,Pescado fresco bifes de merluz - sin marca,Pescado fresco bifes de merluz,Sin marca,1 kg.,1.0,KG,,True,False
+pescado fresco bifes de merluza Sin marca (1 kg.),pescado fresco bifes de merluza Sin marca,Pescado fresco bifes de merluza,Sin marca,1 kg.,1.0,KG,,True,False
+pollo entero con menudos fresco Avicolas del oeste (1 kg.),pollo entero con menudos fresco Avicolas del oeste,Pollo entero con menudos fresco,Avicolas del Oeste,1 kg.,1.0,KG,,True,False
+pollo entero con menudos fresco Tres arroyos (1 kg.),pollo entero con menudos fresco Tres arroyos,Pollo entero con menudos fresco,Tres Arroyos,1 kg.,1.0,KG,,True,False
+Pollo entero fresco con menudos Avícola del Oeste 1 kg.,Pollo entero fresco con menudos Avícola del Oeste,Pollo entero fresco con menudos,Avícola del Oeste,1 kg.,1.0,KG,,True,False
+Pollo entero fresco con menudos Tres Arroyos 1 kg.,Pollo entero fresco con menudos Tres Arroyos,Pollo entero fresco con menudos,Tres Arroyos,1 kg.,1.0,KG,,True,False
+Protector solar SPF 20 Dermaglós 250 ml.,Protector solar SPF 20 Dermaglós,Protector solar,Dermaglós,250 ml.,250.0,ML,Spf 20,True,False
+Protector solar SPF 40 Dermaglós 250 ml.,Protector solar SPF 40 Dermaglós,Protector solar,Dermaglós,250 ml.,250.0,ML,Spf 40,True,False
+protector solar spf 20 Dermaglos (250 ml.),protector solar spf 20 Dermaglos,Protector solar,Dermaglós,250 ml.,250.0,ML,Spf 20,True,False
+protector solar spf 40 Dermaglos (250 ml.),protector solar spf 40 Dermaglos,Protector solar,Dermaglós,250 ml.,250.0,ML,Spf 40,True,False
+Protector solar SPF 50 Eucerin 150 ml.,Protector solar SPF 50 Eucerin,Protector solar,Eucerin,150 ml.,150.0,ML,Spf 50,True,False
+Protector solar SPF 30 Hawaiian Tropic 180 ml.,Protector solar SPF 30 Hawaiian Tropic,Protector solar,Hawaiian Tropic,180 ml.,180.0,ML,Spf 30,True,False
+Protector solar SPF 80 Hawaiian Tropic 240 ml.,Protector solar SPF 80 Hawaiian Tropic,Protector solar,Hawaiian Tropic,240 ml.,240.0,ML,Spf 80,True,False
+protector solar spf 30 Hawaiian tropic (180 ml.),protector solar spf 30 Hawaiian tropic,Protector solar,Hawaiian Tropic,180 ml.,180.0,ML,Spf 30,True,False
+protector solar spf 50 Hawaiian tropic (240 ml.),protector solar spf 50 Hawaiian tropic,Protector solar,Hawaiian Tropic,240 ml.,240.0,ML,Spf 50,True,False
+Protector solar SPF 60 Soundown 120 ml.,Protector solar SPF 60 Soundown,Protector solar,Soundown,120 ml.,120.0,ML,Spf 60,True,False
+protector solar spf 60 Sundown (120 ml.),protector solar spf 60 Sundown,Protector solar,Sundown,120 ml.,120.0,ML,Spf 60,True,False
+Pulpa de tomate Conaprole Envase 1 lt.,Pulpa de tomate Conaprole,Pulpa de tomate,Conaprole,Envase 1 lt.,1.0,LT,,True,False
+"Pulpa de tomate De Ley Envase 1,020 lt.",Pulpa de tomate De Ley,Pulpa de tomate,De Ley,"Envase 1,020 lt.",20.0,LT,,True,False
+Pulpa de tomate Gourmet Envase 1 lt.,Pulpa de tomate Gourmet,Pulpa de tomate,Gourmet,Envase 1 lt.,1.0,LT,,True,False
+pulpa de tomate concentrada comun Conaprole (envase 1 lt.),pulpa de tomate concentrada comun Conaprole,Pulpa de tomate concentrada comun,Conaprole,envase 1 lt.,1.0,LT,,True,False
+"pulpa de tomate concentrada comun De ley (envase 1,020 lt.)",pulpa de tomate concentrada comun De ley,Pulpa de tomate concentrada comun,De Ley,"envase 1,020 lt.",1.2,LT,,True,False
+pulpa de tomate concentrada comun Gourmet (envase 1 lt.),pulpa de tomate concentrada comun Gourmet,Pulpa de tomate concentrada comun,Gourmet,envase 1 lt.,1.0,LT,,True,False
+Queso rallado Artesano Paquete 80 grs.,Queso rallado Artesano,Queso rallado,Artesano,Paquete 80 grs.,80.0,GR,,True,False
+queso rallado Artesano (paquete 80 grs.),queso rallado Artesano,Queso rallado,Artesano,paquete 80 grs.,80.0,GR,,True,False
+Queso rallado Conaprole Paquete 80 grs.,Queso rallado Conaprole,Queso rallado,Conaprole,Paquete 80 grs.,80.0,GR,,True,False
+queso rallado Conaprole (paquete 80 grs.),queso rallado Conaprole,Queso rallado,Conaprole,paquete 80 grs.,80.0,GR,,True,False
+Queso rallado Milky Paquete 80 grs.,Queso rallado Milky,Queso rallado,Milky,Paquete 80 grs.,80.0,GR,,True,False
+queso rallado Milky (paquete 80 grs.),queso rallado Milky,Queso rallado,Milky,paquete 80 grs.,80.0,GR,,True,False
+"Repelente aerosol Júpiter, 165 cm3",Repelente aerosol Júpiter,Repelente aerosol,Júpiter,165 cm3,165,CM3,,True,False
+"Repelente aerosol Off! Family Aerosol, 170cm3",Repelente aerosol Off! Family Aerosol,Repelente aerosol,Off,170 cm3,170,CM3,Family Aerosol,True,False
+"Repelente aerosol Off! Larga Duración, 170 cm3",Repelente aerosol Off! Larga Duración,Repelente aerosol,Off,170 cm3,170,CM3,Larga Duracion,True,False
+"Repelente crema Júpiter, 80 grs.",Repelente crema Júpiter,Repelente crema,Júpiter,80 grs.,80.0,GR,,True,False
+"Repelente crema Off! Family, 200 grs.",Repelente crema Off! Family,Repelente crema,Off,200 grs.,200.0,GR,Family,True,False
+"Repelente crema Off! Kids, 90grs.",Repelente crema Off! Kids,Repelente crema,Off,90grs.,90.0,GR,Kids,True,False
+repelente de mosquitos aerosol Jupiter (165 cm3),repelente de mosquitos aerosol Jupiter,Repelente de mosquitos aerosol,Júpiter,165 cm3,165,CM3,,True,False
+repelente de mosquitos aerosol Off! (170 cm3),repelente de mosquitos aerosol Off!,Repelente de mosquitos aerosol,Off,170 cm3,170,CM3,,True,False
+repelente de mosquitos crema Jupiter (80 grs.),repelente de mosquitos crema Jupiter,Repelente de mosquitos crema,Júpiter,80 grs.,80.0,GR,,True,False
+repelente de mosquitos crema Off! (200 grs.),repelente de mosquitos crema Off!,Repelente de mosquitos crema,Off,200 grs.,200.0,GR,,True,False
+repelente de mosquitos crema Off! (90 grs.),repelente de mosquitos crema Off!,Repelente de mosquitos crema,Off,90 grs.,90.0,GR,,True,False
+repelente de mosquitos spray Off! (177 cm3),repelente de mosquitos spray Off!,Repelente de mosquitos spray,Off,177 cm3,177,CM3,,True,False
+"Repelente spray Off! Family, 177 cm3",Repelente spray Off! Family,Repelente spray,Off,177 cm3,177,CM3,Family,True,False
+rueda con hueso Sin marca (1 kg),rueda con hueso Sin marca,Rueda vacuna,Sin marca,1 kg,1.0,KG,Con Hueso,True,False
+Rueda Vacuna Con Hueso - Sin Marca 1 kg,Rueda Vacuna Con Hueso - Sin Marca,Rueda vacuna,Sin marca,1 kg,1.0,KG,Con Hueso,True,False
+sal fina Sek (paquete 500 grs.),sal fina Sek,Sal fina,Sek,paquete 500 grs.,500.0,GR,,True,False
+sal fina Torrevieja (paquete 500 grs.),sal fina Torrevieja,Sal fina,Torrevieja,paquete 500 grs.,500.0,GR,,True,False
+sal fina Urusal (paquete 500 grs.),sal fina Urusal,Sal fina,Urusal,paquete 500 grs.,500.0,GR,,True,False
+Sal fina yodada fluorada Sek Paquete 500 grs.,Sal fina yodada fluorada Sek,Sal fina yodada fluorada,Sek,Paquete 500 grs.,500.0,GR,,True,False
+Sal fina yodada fluorada Torrevieja Paquete 500 grs.,Sal fina yodada fluorada Torrevieja,Sal fina yodada fluorada,Torrevieja,Paquete 500 grs.,500.0,GR,,True,False
+Sal fina yodada fluorada Urusal Paquete 500 grs.,Sal fina yodada fluorada Urusal,Sal fina yodada fluorada,Urusal,Paquete 500 grs.,500.0,GR,,True,False
+shampoo comun Dove original (400 ml.),shampoo comun Dove original,Shampoo comun,Dove,400 ml.,400.0,ML,Original,True,False
+shampoo comun Fructis (envase 350 ml.),shampoo comun Fructis,Shampoo comun,Fructis,envase 350 ml.,350.0,ML,,True,False
+shampoo comun Pantene (400 ml.),shampoo comun Pantene,Shampoo comun,Pantene,400 ml.,400.0,ML,,True,False
+shampoo comun Sedal (envase 350 ml.),shampoo comun Sedal,Shampoo comun,Sedal,envase 350 ml.,350.0,ML,,True,False
+shampoo comun Suave (envase 930 ml.),shampoo comun Suave,Shampoo comun,Suave,envase 930 ml.,930.0,ML,,True,False
+"Talco J&J Regular, 200 grs.",Talco J&J Regular,Talco,J&J,200 grs.,200.0,GR,Regular,True,False
+"Talco Xanapie Aerosol, 175 ml.",Talco Xanapie Aerosol,Talco,Xanapie,175 ml.,175.0,ML,Aerosol,True,False
+"Talco Xanapie Bolsa Repuesto, 180 grs.",Talco Xanapie Bolsa Repuesto,Talco,Xanapie,180 grs.,180.0,GR,Bolsa Repuesto,True,False
+talco comun Johnson & johnson (200 grs.),talco comun Johnson & johnson,Talco comun,Johnson & Johnson,200 grs.,200.0,GR,,True,False
+talco comun Xanapie (175 ml.),talco comun Xanapie,Talco comun,Xanapie,175 ml.,175.0,ML,,True,False
+talco comun Xanapie (180 grs.),talco comun Xanapie,Talco comun,Xanapie,180 grs.,180.0,GR,,True,False
+Té negro en saquitos Hornimans Caja 10 us.,Té negro en saquitos Hornimans,Te negro en saquitos,Hornimans,Caja 10 us.,10.0,UNIDADES,,True,False
+Té negro en saquitos La Virginia Caja 10 us.,Té negro en saquitos La Virginia,Te negro en saquitos,La Virginia,Caja 10 us.,10.0,UNIDADES,,True,False
+Té negro en saquitos President Caja 10 us.,Té negro en saquitos President,Te negro en saquitos,President,Caja 10 us.,10.0,UNIDADES,,True,False
+te saquitos Hornimans (caja 10 us.),te saquitos Hornimans,Te saquitos,Hornimans,caja 10 us.,10.0,UNIDADES,,True,False
+te saquitos La virginia (caja 10 us.),te saquitos La virginia,Te saquitos,La Virginia,caja 10 us.,10.0,UNIDADES,,True,False
+te saquitos President (caja 10 us.),te saquitos President,Te saquitos,President,caja 10 us.,10.0,UNIDADES,,True,False
+"Tinta Excellence Tinta N.9, 1 unidad",Tinta Excellence Tinta N.9,Tinta,Excellence,1 unidad,1.0,UNIDADES,N 9,True,False
+"Tinta Garnier Nutrisse Intense N.8.0, 1 unidad",Tinta Garnier Nutrisse Intense N.8.0,Tinta,Garnier,1 unidad,1.0,UNIDADES,Nutrisse Intense N 8 0,True,False
+"Tinta Issue Decolorante Semilla Lino 30 Grs., 1 unidad",Tinta Issue Decolorante Semilla Lino 30 Grs.,Tinta,Issue,1 unidad,1.0,UNIDADES,Decolorante Semilla Lino 30 Grs,True,False
+tinta comun Excellence (1 unidad),tinta comun Excellence,Tinta comun,Excellence,1 unidad,1.0,UNIDADES,,True,False
+tinta comun Garnier (1 unidad),tinta comun Garnier,Tinta comun,Garnier,1 unidad,1.0,UNIDADES,,True,False
+tinta comun Issue (1 unidad),tinta comun Issue,Tinta comun,Issue,1 unidad,1.0,UNIDADES,,True,False
+"Toallitas Femenias Siempre Libre Nocturna Max Con Alas, 8 us.",Toallitas Femenias Siempre Libre Nocturna Max Con Alas,Toallitas femenias,Siempre Libre,8 us.,8.0,UNIDADES,Nocturna Max Con Alas,True,False
+"Toallitas Femeninas Ladysoft Basica, 16 us.",Toallitas Femeninas Ladysoft Basica,Toallitas femeninas,Ladysoft,16 us.,16.0,UNIDADES,Basica,True,False
+toallitas y tampones comun Ladysoft (16 unidades),toallitas y tampones comun Ladysoft,Toallitas y tampones comun,Ladysoft,16 unidades,16.0,UNIDADES,,True,False
+toallitas y tampones comun Siempre libre (8 unidades),toallitas y tampones comun Siempre libre,Toallitas y tampones comun,Siempre Libre,8 unidades,8.0,UNIDADES,,True,False
+"Tomate Americano, 1 kg.",Tomate Americano,Tomate,Sin marca,1 kg.,1.0,KG,Americano,True,False
+"Tomate Perita, 1 kg.",Tomate Perita,Tomate,Sin marca,1 kg.,1.0,KG,Perita,True,False
+tomate americano Sin marca (1 kg.),tomate americano Sin marca,Tomate,Sin marca,1 kg.,1.0,KG,Americano,True,False
+tomate perita Sin marca (1 kg.),tomate perita Sin marca,Tomate,Sin marca,1 kg.,1.0,KG,Perita,True,False
+vino tinto Faisan (envase 1 lt.),vino tinto Faisan,Vino tinto,Faisán,Envase 1 lt.,1.0,LT,,True,False
+vino tinto Santa teresa clasico (envase 1 lt.),vino tinto Santa teresa clasico,Vino tinto,Santa Teresa,Envase 1 lt.,1.0,LT,Clasico,True,False
+vino tinto Tango (envase 1 lt.),vino tinto Tango,Vino tinto,Tango,Envase 1 lt.,1.0,LT,,True,False
+Vino tinto común tetrabrick Faisán Envase 1 lt.,Vino tinto común tetrabrick Faisán,Vino tinto comun tetrabrick,Faisán,Envase 1 lt.,1.0,LT,,True,False
+Vino tinto común tetrabrick Santa Teresa Clásico Envase 1 lt.,Vino tinto común tetrabrick Santa Teresa Clásico,Vino tinto comun tetrabrick,Santa Teresa,Envase 1 lt.,1.0,LT,Clasico,True,False
+Vino tinto común tetrabrick Tango Envase 1 lt.,Vino tinto común tetrabrick Tango,Vino tinto comun tetrabrick,Tango,Envase 1 lt.,1.0,LT,,True,False
+Yerba mate común Baldo Paquete1 kg.,Yerba mate común Baldo,Yerba mate comun,Baldo,Paquete 1 kg.,1.0,KG,,True,False
+Yerba mate común Canarias Paquete1 kg.,Yerba mate común Canarias,Yerba mate comun,Canarias,Paquete 1 kg.,1.0,KG,,True,False
+Yerba mate común Del Cebador Paquete1 kg.,Yerba mate común Del Cebador,Yerba mate comun,Del Cebador,Paquete 1 kg.,1.0,KG,,True,False
+yerba mate sin tipo Baldo (paquete1 kg.),yerba mate sin tipo Baldo,Yerba mate sin tipo,Baldo,Paquete 1 kg.,1.0,KG,,True,False
+yerba mate sin tipo Canarias (paquete1 kg.),yerba mate sin tipo Canarias,Yerba mate sin tipo,Canarias,Paquete 1 kg.,1.0,KG,,True,False
+yerba mate sin tipo Del cebador (paquete1 kg.),yerba mate sin tipo Del cebador,Yerba mate sin tipo,Del Cebador,Paquete 1 kg.,1.0,KG,,True,False
+Yogur Calcar Sachet 1 lt.,Yogur Calcar,Yogur,Calcar,Sachet 1 lt.,1.0,LT,,True,False
+"Yogur Conaprole BIO TOP Sachet1,200 lt.",Yogur Conaprole BIO TOP,Yogur,Conaprole,"Sachet 1,200 lt.",1.2,LT,Bio Top,True,False
+Yogur Parmalat Bio Yogur Sachet 1 lt.,Yogur Parmalat Bio Yogur,Yogur,Parmalat,Sachet 1 lt.,1.2,LT,Bio Yogur,True,False
+yogur semi-descremado Calcar (sachet 1 lt.),yogur semi-descremado Calcar,Yogur semi descremado,Calcar,Sachet 1 lt.,1.0,LT,,True,False
+"yogur semi-descremado Conaprole (sachet1,200 lt.)",yogur semi-descremado Conaprole,Yogur semi descremado,Conaprole,"Sachet 1,200 lt.",1.2,LT,,True,False
+yogur semi-descremado Parmalat (sachet 1 lt.),yogur semi-descremado Parmalat,Yogur semi descremado,Parmalat,Sachet 1 lt.,1.0,LT,,True,False
+"Zapallo Calabacín, 1 kg.",Zapallo Calabacín,Zapallo,Sin marca,1 kg.,1.0,KG,Calabacin,True,False
+"Zapallo Criollo, 1 kg.",Zapallo Criollo,Zapallo,Sin marca,1 kg.,1.0,KG,Criollo,True,False
+zapallo calabacin Sin marca (1 kg.),zapallo calabacin Sin marca,Zapallo,Sin marca,1 kg.,1.0,KG,Calabacin,True,False
+zapallo criollo Sin marca (1 kg.),zapallo criollo Sin marca,Zapallo,Sin marca,1 kg.,1.0,KG,Criollo,True,False
+Establecimientos Relevados,Establecimientos Relevados,,,,,,Establecimientos Relevados,False,True
