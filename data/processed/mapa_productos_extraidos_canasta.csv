@@ -1,0 +1,427 @@
+Producto;producto_base;tipo_producto;marca;presentacion;tipo_envoltorio;presentacion_valor;presentacion_unidad;especificacion;nombre_comercial;canasta_producto;canasta_cantidad
+Aceite de girasol Marca Propia Envase 900 cc;Aceite de girasol Marca Propia;Aceite;Marca Propia;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Marcas Propias Envase 900 cc;Aceite de girasol Marcas Propias;Aceite;Marcas Propias;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Precio Líder Envase 900 cc;Aceite de girasol Precio Líder;Aceite;Precio Lider;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Río de la Plata Envase 900 cc;Aceite de girasol Río de la Plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Tata Envase 900 cc;Aceite de girasol Tata;Aceite;Tata;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Tienda Inglesa Envase 900 cc;Aceite de girasol Tienda Inglesa;Aceite;Tienda Inglesa;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Uruguay Envase 900 cc;Aceite de girasol Uruguay;Aceite;Uruguay;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Óptimo Envase 900 cc;Aceite de girasol Óptimo;Aceite;Óptimo;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de maíz Delicia Envase 900 cc;Aceite de maíz Delicia;Aceite;Delicia;Envase 900 cc;Envase;900.0;CC;de maiz;Aceite de maiz;1;2
+Aceite de maíz Río de la Plata Envase 900 cc;Aceite de maíz Río de la Plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de maiz;Aceite de maiz;1;2
+Aceite de soja Condesa Envase 900 cc;Aceite de soja Condesa;Aceite;Condesa;Envase 900 cc;Envase;900.0;CC;de soja;Aceite de soja;1;2
+Aceite de soja Río de la Plata Envase 900 cc;Aceite de soja Río de la Plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de soja;Aceite de soja;1;2
+aceite girasol Devoto (envase 900 cc);aceite girasol Devoto;Aceite;Devoto;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+aceite girasol Rio de la plata (envase 900 cc);aceite girasol Rio de la plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+aceite girasol Tata (envase 900 cc);aceite girasol Tata;Aceite;Tata;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+aceite girasol Tienda inglesa (envase 900 cc);aceite girasol Tienda inglesa;Aceite;Tienda Inglesa;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+aceite girasol Uruguay (envase 900 cc);aceite girasol Uruguay;Aceite;Uruguay;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+aceite girasol Optimo (envase 900 cc);aceite girasol Optimo;Aceite;Óptimo;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+aceite maiz Delicia (envase 900 cc);aceite maiz Delicia;Aceite;Delicia;Envase 900 cc;Envase;900.0;CC;de maiz;Aceite de maiz;1;2
+aceite maiz Rio de la plata (envase 900 cc);aceite maiz Rio de la plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de maiz;Aceite de maiz;1;2
+aceite soja Condesa (envase 900 cc);aceite soja Condesa;Aceite;Condesa;Envase 900 cc;Envase;900.0;CC;de soja;Aceite de soja;1;2
+aceite soja Rio de la plata (envase 900 cc);aceite soja Rio de la plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de soja;Aceite de soja;1;2
+Afeitadora Gillette Mach3 Dispenser X2, 2us.;Afeitadora Gillette Mach3;Afeitadora;Gillette;Empaque 2 Unidades;Empaque;2.0;UNIDADES;Mach 3 Dispenser X2;Afeitadora Mach 3 Dispenser X2;;
+Afeitadora Xtreme3 Piel Delicada X1, 1 unidad;Afeitadora Xtreme3 Piel Delicada X1;Afeitadora;Xtreme3;Empaque 1 Unidad;Empaque;1.0;UNIDADES;Piel Delicada X 1;Afeitadora Piel Delicada X 1;;
+afeitadora descartable Gillette (2 unidades);afeitadora descartable Gillette;Afeitadora;Gillette;Empaque 2 Unidades;Empaque;2.0;UNIDADES;descartable;Afeitadora descartable;;
+afeitadora descartable Schick (1 unidad);afeitadora descartable Schick;Afeitadora;Schick;Empaque 1 Unidad;Empaque;1.0;UNIDADES;descartable;Afeitadora descartable;;
+Agua de mesa con gas Matutina Envase 2 lt.;Agua de mesa con gas Matutina;Agua;Matutina;Envase 2 lt.;Envase;2.0;LT;de mesa con gas;Agua de mesa con gas;;
+Agua de mesa con gas Nativa Envase 2 lt.;Agua de mesa con gas Nativa;Agua;Nativa;Envase 2 lt.;Envase;2.0;LT;de mesa con gas;Agua de mesa con gas;;
+Agua de mesa con gas Salus Envase 2,25 lt.;Agua de mesa con gas Salus;Agua;Salus;Envase 2,25 lt.;Envase;2.25;LT;de mesa con gas;Agua de mesa con gas;;
+Agua de mesa sin gas Matutina 2,5 lts;Agua de mesa sin gas Matutina;Agua;Matutina;Envase 2,5 lts;Envase;5.0;LT;de mesa sin gas;Agua de mesa sin gas;;
+Agua de mesa sin gas Salus 2,25 lts;Agua de mesa sin gas Salus;Agua;Salus;Envase 2,25 lts;Envase;2.25;LT;de mesa sin gas;Agua de mesa sin gas;;
+Agua de mesa sin gas Vitale 2,5 lts;Agua de mesa sin gas Vitale;Agua;Vitale;Envase 2,5 lts;Envase;5.0;LT;de mesa sin gas;Agua de mesa sin gas;;
+agua mineral con gas Matutina (envase 2,5 lt.);agua mineral con gas Matutina;Agua ;Matutina;Envase 2,5 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
+agua mineral con gas Nativa (envase 2,5 lt.);agua mineral con gas Nativa;Agua ;Nativa;Envase 2,5 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
+agua mineral con gas Salus (envase 2,25 lt.);agua mineral con gas Salus;Agua ;Salus;Envase 2,25 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
+agua mineral sin gas Matutina (envase 2,5lt.);agua mineral sin gas Matutina;Agua ;Matutina;Envase 2,5lt.;Envase;5.0;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Nativa (envase 6lt.);agua mineral sin gas Nativa;Agua ;Nativa;Envase 6lt.;Envase;6.0;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Salus (envase 2,25lt.);agua mineral sin gas Salus;Agua ;Salus;Envase 2,25lt.;Envase;25.0;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Salus (envase 6,25lt.);agua mineral sin gas Salus;Agua ;Salus;Envase 6,25lt.;Envase;6.25;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Vitale (envase 2,5lt.);agua mineral sin gas Vitale;Agua ;Vitale;Envase 2,5lt.;Envase;5.0;LT;mineral sin gas;Agua  mineral sin gas;;
+Agua mineral sin gas(bidón) Nativa 6lts;Agua mineral sin gas(bidón) Nativa;Agua ;Nativa;Envase 6 lts;Envase;6.0;LT;mineral sin gas bidon;Agua  mineral sin gas bidon;;
+Agua mineral sin gas(bidón) Salus 6,25lts;Agua mineral sin gas(bidón) Salus;Agua ;Salus;Envase 6,25lts;Envase;6.25;LT;mineral sin gas bidon;Agua  mineral sin gas bidon;;
+aguja con hueso Sin marca (1 kg.);aguja con hueso Sin marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Aguja vacuna Con Hueso;;
+aguja sin hueso Sin marca (1 kg.);aguja sin hueso Sin marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Aguja vacuna Sin Hueso;;
+Aguja vacuna Con Hueso - Sin Marca 1 kg.;Aguja vacuna Con Hueso - Sin Marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Aguja vacuna Con Hueso;;
+Aguja vacuna Sin Hueso - Sin Marca 1 kg.;Aguja vacuna Sin Hueso - Sin Marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Aguja vacuna Sin Hueso;;
+Alcohol en gel Bioset 250 ml.;Alcohol en gel Bioset;Alcohol;Bioset;Envase 250 ml.;Envase;250.0;ML; En gel;Alcohol  En gel;;
+alcohol en gel alcohol en gel Bioset (250 ml.);alcohol en gel alcohol en gel Bioset;Alcohol;Bioset;Envase 250 ml.;Envase;250.0;ML; En gel;Alcohol  En gel;;
+Alcohol rectificado Droguería Paysandú 250 ml.;Alcohol rectificado Droguería Paysandú;Alcohol;Drogueria Paysandu;Envase 250 ml.;Envase;250.0;ML;Rectificado;Alcohol Rectificado;;
+alcohol rectificado alcohol rectificado Drogueria paysandu (250 ml.);alcohol rectificado alcohol rectificado Drogueria paysandu;Alcohol;Drogueria Paysandu;Envase 250 ml.;Envase;250.0;ML;Rectificado;Alcohol Rectificado;;
+Algodón Zig Zag Cisne 100 gr.;Algodón Zig Zag Cisne;Algodon;Zig Zag Cisne;Empaque 100 grs.;Empaque;100.0;GR;;Algodon ;;
+algodon algodon Zig zag cisne (100 grs.);algodon algodon Zig zag cisne;Algodon;Zig Zag Cisne;Empaque 100 grs.;Empaque;100.0;GR;;Algodon ;;
+Arroz blanco Aruba tipo Patna Bolsa 1 kg.;Arroz blanco Aruba tipo Patna;Arroz ;Aruba;Empaque 1 kg.;Empaque;1.0;KG;blanco Tipo Patna;Arroz  blanco Tipo Patna;1;3
+Arroz blanco Blue Patna Bolsa 1 kg.;Arroz blanco Blue Patna;Arroz ;Blue Patna;Empaque 1 kg.;Empaque;1.0;KG;blanco;Arroz  blanco;1;3
+Arroz blanco Green Chef Bolsa 1 kg.;Arroz blanco Green Chef;Arroz ;Green Chef;Empaque 1 kg.;Empaque;1.0;KG;blanco;Arroz  blanco;1;3
+Arroz blanco Pony Bolsa 1 kg.;Arroz blanco Pony;Arroz ;Pony;Empaque 1 kg.;Empaque;1.0;KG;blanco;Arroz  blanco;1;3
+Arroz blanco Saman Blanco Bolsa 1 kg.;Arroz blanco Saman Blanco;Arroz ;Saman Blanco;Empaque 1 kg.;Empaque;1.0;KG;blanco;Arroz  blanco;1;3
+Arroz blanco Vidarroz Bolsa 1 kg.;Arroz blanco Vidarroz;Arroz ;Vidarroz;Empaque 1 kg.;Empaque;1.0;KG;blanco;Arroz  blanco;1;3
+arroz calidad alta Blue patna (bolsa 1 kg.);arroz calidad alta Blue patna;Arroz ;Blue Patna;Empaque 1 kg.;Empaque;1.0;KG;calidad alta;Arroz  calidad alta;1;3
+arroz calidad alta Green chef (bolsa 1 kg.);arroz calidad alta Green chef;Arroz ;Green Chef;Empaque 1 kg.;Empaque;1.0;KG;calidad alta;Arroz  calidad alta;1;3
+arroz calidad alta Saman blanco (bolsa 1 kg.);arroz calidad alta Saman blanco;Arroz ;Saman Blanco;Empaque 1 kg.;Empaque;1.0;KG;calidad alta;Arroz  calidad alta;1;3
+arroz calidad media Aruba (bolsa 1 kg.);arroz calidad media Aruba;Arroz ;Aruba;Empaque 1 kg.;Empaque;1.0;KG;calidad media;Arroz  calidad media;1;3
+arroz calidad media Pony (bolsa 1 kg.);arroz calidad media Pony;Arroz ;Pony;Empaque 1 kg.;Empaque;1.0;KG;calidad media;Arroz  calidad media;1;3
+arroz calidad media Vidarroz (bolsa 1 kg.);arroz calidad media Vidarroz;Arroz ;Vidarroz;Empaque 1 kg.;Empaque;1.0;KG;calidad media;Arroz  calidad media;1;3
+Arvejas en conserva Cololó Lata 380 grs.;Arvejas en conserva Cololó;Arvejas en conserva;Cololó;Envase 380 grs.;Envase;380.0;GR;;Arvejas en conserva ;;
+arvejas en conserva Cololo (lata 380 grs.);arvejas en conserva Cololo;Arvejas en conserva;Cololó;Envase 380 grs.;Envase;380.0;GR;;Arvejas en conserva ;;
+Arvejas en conserva Nidemar Lata 300 grs.;Arvejas en conserva Nidemar;Arvejas en conserva;Nidemar;Envase 300 grs.;Envase;300.0;GR;;Arvejas en conserva ;;
+arvejas en conserva Nidemar (lata 300 grs.);arvejas en conserva Nidemar;Arvejas en conserva;Nidemar;Envase 300 grs.;Envase;300.0;GR;;Arvejas en conserva ;;
+azucar blanca Azucarlito (paquete 1 kg.);azucar blanca Azucarlito;Azucar;Azucarlito;Empaque 1 kg.;Empaque;1.0;KG;blanca;Azucar blanca;1;1
+azucar blanca Bella union (paquete 1 kg.);azucar blanca Bella union;Azucar;Bella Unión;Empaque 1 kg.;Empaque;1.0;KG;blanca;Azucar blanca;1;1
+Azúcar blanco Azucarlito Paquete 1 kg.;Azúcar blanco Azucarlito;Azucar;Azucarlito;Empaque 1 kg.;Empaque;1.0;KG;blanca;Azucar blanca;1;1
+Azúcar blanco Bella Unión Paquete 1 kg.;Azúcar blanco Bella Unión;Azucar;Bella Unión;Empaque 1 kg.;Empaque;1.0;KG;blanca;Azucar blanca;1;1
+Banana Brasil, 1 kg.;Banana Brasil;Banana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Brasil;Banana Brasil;;
+Banana Ecuador, 1 kg.;Banana Ecuador;Banana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Ecuador;Banana Ecuador;;
+banana brasil Sin marca (1 kg.);banana brasil Sin marca;Banana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Brasil;Banana Brasil;;
+banana ecuador Sin marca (1 kg.);banana ecuador Sin marca;Banana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Ecuador;Banana Ecuador;;
+Café envasado (no instantáneo) Chaná Paquete 250 grs.;Café envasado (no instantáneo) Chaná;Café;Chaná;Empaque 250 grs.;Empaque;250.0;GR;envasado no instantaneo;Café envasado no instantaneo;;
+Café envasado (no instantáneo) Saint Paquete 250 grs.;Café envasado (no instantáneo) Saint;Café;Saint;Empaque 250 grs.;Empaque;250.0;GR;envasado no instantaneo;Café envasado no instantaneo;;
+Café envasado (no instantáneo) Águila Paquete 250 grs.;Café envasado (no instantáneo) Águila;Café;Águila;Empaque 250 grs.;Empaque;250.0;GR;envasado no instantaneo;Café envasado no instantaneo;;
+cafe instantaneo El chana (paquete 250 grs.);cafe instantaneo El chana;Café;El Chaná;Empaque 250 grs.;Empaque;250.0;GR;instantaneo;Café instantaneo;;
+cafe instantaneo Saint (paquete 250 grs.);cafe instantaneo Saint;Café;Saint;Empaque 250 grs.;Empaque;250.0;GR;instantaneo;Café instantaneo;;
+cafe instantaneo Aguila (paquete 250 grs.);cafe instantaneo Aguila;Café;Águila;Empaque 250 grs.;Empaque;250.0;GR;instantaneo;Café instantaneo;;
+carne picada hasta 20% de grasa Sin marca (1 kg.);carne picada hasta 20% de grasa Sin marca;Carne picada vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hasta 20% De Grasa;Carne picada vacuna Con Hasta 20% De Grasa;1;6
+carne picada hasta 5% de grasa Sin marca (1 kg.);carne picada hasta 5% de grasa Sin marca;Carne picada vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hasta 5% De Grasa;Carne picada vacuna Con Hasta 5% De Grasa;1;6
+Carne picada vacuna Con Hasta 20% de grasa 1 kg.;Carne picada vacuna Con Hasta 20% de grasa;Carne picada vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hasta 20% De Grasa;Carne picada vacuna Con Hasta 20% De Grasa;1;6
+Carne picada vacuna Con Hasta 5% de grasa 1 kg.;Carne picada vacuna Con Hasta 5% de grasa;Carne picada vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hasta 5% De Grasa;Carne picada vacuna Con Hasta 5% De Grasa;1;6
+Cerveza Patricia Botella 960 ml.;Cerveza Patricia;Cerveza;Patricia;Envase 960 ml.;Envase;960.0;ML;;Cerveza ;;
+Cerveza Pilsen Botella 960 ml.;Cerveza Pilsen;Cerveza;Pilsen;Envase 960 ml.;Envase;960.0;ML;;Cerveza ;;
+Cerveza Zillertal Botella 1 lt.;Cerveza Zillertal;Cerveza;Zillertal;Envase 1 lt.;Envase;1.0;LT;;Cerveza ;;
+cerveza rubia Patricia (botella 960 ml.);cerveza rubia Patricia;Cerveza;Patricia;Envase 960 ml.;Envase;960.0;ML;Rubia;Cerveza Rubia;;
+cerveza rubia Pilsen (botella 960 ml.);cerveza rubia Pilsen;Cerveza;Pilsen;Envase 960 ml.;Envase;960.0;ML;Rubia;Cerveza Rubia;;
+cerveza rubia Zillertal (botella 1 lt.);cerveza rubia Zillertal;Cerveza;Zillertal;Envase 1 lt.;Envase;1.0;LT;Rubia;Cerveza Rubia;;
+Champú Dove, 400 ml.;Champú Dove;Champu;Dove;Envase 400 ml.;Envase;400.0;ML;;Champu ;;
+Champú Fructis Envase 350 ml.;Champú Fructis;Champu;Fructis;Envase 350 ml.;Envase;350.0;ML;;Champu ;;
+Champú Pantene, 400 ml.;Champú Pantene;Champu;Pantene;Envase 400 ml.;Envase;400.0;ML;;Champu ;;
+Champú Sedal Envase 350 ml.;Champú Sedal;Champu;Sedal;Envase 350 ml.;Envase;350.0;ML;;Champu ;;
+Champú Suave Envase 930 ml.;Champú Suave;Champu;Suave;Envase 930 ml.;Envase;930.0;ML;;Champu ;;
+chorizo suelto Cattivelli-extra (1 kg.);chorizo suelto Cattivelli-extra;Chorizo;Cattivelli;1 kg.;Para Empaquetar;1.0;KG;suelto Extra;Chorizo suelto Extra;;
+chorizo suelto Centenario-extra (1 kg.);chorizo suelto Centenario-extra;Chorizo;Centenario;1 kg.;Para Empaquetar;1.0;KG;suelto Extra;Chorizo suelto Extra;;
+chorizo suelto La familia - hilo amarillo (1 kg.);chorizo suelto La familia - hilo amarillo;Chorizo;La Familia;1 kg.;Para Empaquetar;1.0;KG;Hilo Amarillo;Chorizo Hilo Amarillo;;
+Chorizos mezcla sueltos - Cattivelli - Extra 1 kg.;Chorizos mezcla sueltos - Cattivelli - Extra;Chorizo;Cattivelli;1 kg.;Para Empaquetar;1.0;KG;mezcla sueltos Extra;Chorizo mezcla sueltos Extra;;
+Chorizos mezcla sueltos - Centenario - Extra 1 kg.;Chorizos mezcla sueltos - Centenario - Extra;Chorizo;Centenario;1 kg.;Para Empaquetar;1.0;KG;mezcla sueltos Extra;Chorizo mezcla sueltos Extra;;
+Chorizos mezcla sueltos - La Familia - Hilo amarillo 1 kg.;Chorizos mezcla sueltos - La Familia - Hilo amarillo;Chorizo;La Familia;1 kg.;Para Empaquetar;1.0;KG;mezcla sueltos Hilo Amarillo;Chorizo mezcla sueltos Hilo Amarillo;;
+Cinta adhesiva Ready Plast 1 unidad;Cinta adhesiva Ready Plast;Cinta adhesiva;Ready Plast;Empaque 1 Unidad;Empaque;1.0;UNIDADES;;Cinta adhesiva ;;
+cinta adhesiva leuco Ready plast (1 unidad);cinta adhesiva leuco Ready plast;Cinta adhesiva;Ready Plast;Empaque 1 Unidad;Empaque;1.0;UNIDADES;leuco;Cinta adhesiva leuco;;
+Cocoa Copacabana Envase 500 grs.;Cocoa Copacabana;Cocoa;Copacabana;Envase 500 grs.;Envase;500.0;GR;;Cocoa ;;
+Cocoa Vascolet Envase 500 grs.;Cocoa Vascolet;Cocoa;Vascolet;Envase 500 grs.;Envase;500.0;GR;;Cocoa ;;
+cocoa comun Copacabana (envase 500 grs.);cocoa comun Copacabana;Cocoa;Copacabana;Envase 500 grs.;Envase;500.0;GR;Común;Cocoa Común;;
+cocoa comun Vascolet (envase 500 grs.);cocoa comun Vascolet;Cocoa;Vascolet;Envase 500 grs.;Envase;500.0;GR;Común;Cocoa Común;;
+Crema Facial Asepxia Emergencia Color Piel, 28 grs.;Crema Facial Asepxia Emergencia Color Piel;Crema facial;Asepxia;Envase 28 grs.;Envase;28.0;GR;Emergencia Color Piel;Crema facial Emergencia Color Piel;;
+crema facial Aspexia (28 grs.);crema facial Aspexia;Crema facial;Aspexia;Envase 28 grs.;Envase;28.0;GR;;Crema facial ;;
+Crema Facial Revitalift Filler Dia, 50 ml.;Crema Facial Revitalift Filler Dia;Crema facial;Revitalift;Envase 50 ml.;Envase;50.0;ML;Filler Dia;Crema facial Filler Dia;;
+crema facial Revitalift (50 ml.);crema facial Revitalift;Crema facial;Revitalift;Envase 50 ml.;Envase;50.0;ML;;Crema facial ;;
+Curitas Ready Plast 8 us.;Curitas Ready Plast;Curitas;Ready Plast;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Curitas ;;
+curitas curitas Ready plast (8 unidades);curitas curitas Ready plast;Curitas;Ready Plast;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Curitas ;;
+desodorante aerosol Axe musk (envase 113 grs.);desodorante aerosol Axe musk;Desodorante aerosol;Axe;Envase 113 grs.;Envase;113.0;GR;Musk;Desodorante aerosol Musk;;
+desodorante aerosol Dove original (envase 100 grs.);desodorante aerosol Dove original;Desodorante aerosol;Dove;Envase 100 grs.;Envase;100.0;GR;Original;Desodorante aerosol Original;;
+desodorante aerosol Rexona active emotion (envase 105 grs.);desodorante aerosol Rexona active emotion;Desodorante aerosol;Rexona;Envase 105 grs.;Envase;105.0;GR;Active Emotion;Desodorante aerosol Active Emotion;;
+Desodorante en aerosol Axe Musk Envase 113 grs.;Desodorante en aerosol Axe Musk;Desodorante aerosol;Axe;Envase 113 grs.;Envase;113.0;GR;Musk;Desodorante aerosol Musk;;
+Desodorante en aerosol Dove Original Envase 100 grs.;Desodorante en aerosol Dove Original;Desodorante aerosol;Dove;Envase 100 grs.;Envase;100.0;GR;Original;Desodorante aerosol Original;;
+Desodorante en aerosol Rexona Active Emotion Envase 105 grs.;Desodorante en aerosol Rexona Active Emotion;Desodorante aerosol;Rexona;Envase 105 grs.;Envase;105.0;GR;Active Emotion;Desodorante aerosol Active Emotion;;
+detergente comun Deterjane limon (envase 1.250 lt.);detergente comun Deterjane limon;Detergente comun;Deterjane;Envase 1.250 lt.;Envase;1.250;LT;Limon;Detergente comun Limon;;
+detergente comun Hurra nevex limon (envase 1.250 lt.);detergente comun Hurra nevex limon;Detergente comun;Hurra Nevex;Envase 1.250 lt.;Envase;1.250;LT;Limon;Detergente comun Limon;;
+detergente comun Protergente (envase 1 lt.);detergente comun Protergente;Detergente comun;Protergente;Envase 1 lt.;Envase;1.0;LT;;Detergente comun ;;
+Detergente para vajilla Deterjane limón Envase 1.250 lt.;Detergente para vajilla Deterjane limón;Detergente para vajilla;Deterjane;Envase 1.250 lt.;Envase;1.250;LT;Limon;Detergente para vajilla Limon;;
+Detergente para vajilla Hurra Nevex Limón Envase 1.250 lt.;Detergente para vajilla Hurra Nevex Limón;Detergente para vajilla;Hurra Nevex;Envase 1.250 lt.;Envase;1.250;LT;Limon;Detergente para vajilla Limon;;
+Detergente para vajilla Protergente limón Envase 1 lt.;Detergente para vajilla Protergente limón;Detergente para vajilla;Protergente;Envase 1 lt.;Envase;1.0;LT;Limon;Detergente para vajilla Limon;;
+Dulce de leche Conaprole Envase 1 kg.;Dulce de leche Conaprole;Dulce de leche;Conaprole;Envase 1 kg.;Envase;1.0;KG;;Dulce de leche ;;
+dulce de leche Conaprole (envase 1 kg.);dulce de leche Conaprole;Dulce de leche;Conaprole;Envase 1 kg.;Envase;1.0;KG;;Dulce de leche ;;
+Dulce de leche Los Nietitos Envase 1 kg.;Dulce de leche Los Nietitos;Dulce de leche;Los Nietitos;Envase 1 kg.;Envase;1.0;KG;;Dulce de leche ;;
+dulce de leche Los nietitos (envase 1 kg.);dulce de leche Los nietitos;Dulce de leche;Los Nietitos;Envase 1 kg.;Envase;1.0;KG;;Dulce de leche ;;
+Dulce de leche Manjar Envase 1 kg.;Dulce de leche Manjar;Dulce de leche;Manjar;Envase 1 kg.;Envase;1.0;KG;;Dulce de leche ;;
+dulce de leche Manjar (envase 1 kg.);dulce de leche Manjar;Dulce de leche;Manjar;Envase 1 kg.;Envase;1.0;KG;;Dulce de leche ;;
+Dulce de membrillo Los Nietitos Envase 400 grs.;Dulce de membrillo Los Nietitos;Dulce de membrillo;Los Nietitos;Envase 400 grs.;Envase;400.0;GR;;Dulce de membrillo ;;
+dulce de membrillo Los nietitos (envase 400 grs.);dulce de membrillo Los nietitos;Dulce de membrillo;Los Nietitos;Envase 400 grs.;Envase;400.0;GR;;Dulce de membrillo ;;
+Fideos secos al huevo Adria Paquete 500 grs.;Fideos secos al huevo Adria;Fideos;Adria;Empaque 500 grs.;Empaque;500.0;GR;secos al huevo;Fideos secos al huevo;1;6
+fideos secos al huevo Adria (paquete 500 grs.);fideos secos al huevo Adria;Fideos;Adria;Empaque 500 grs.;Empaque;500.0;GR;secos al huevo;Fideos secos al huevo;1;6
+Fideos secos al huevo Cololó Paquete 500 grs.;Fideos secos al huevo Cololó;Fideos;Cololó;Empaque 500 grs.;Empaque;500.0;GR;secos al huevo;Fideos secos al huevo;1;6
+fideos secos al huevo Cololo (paquete 500 grs.);fideos secos al huevo Cololo;Fideos;Cololó;Empaque 500 grs.;Empaque;500.0;GR;secos al huevo;Fideos secos al huevo;1;6
+Fideos secos al huevo Las Acacias Paquete 500 grs.;Fideos secos al huevo Las Acacias;Fideos;Las Acacias;Empaque 500 grs.;Empaque;500.0;GR;secos al huevo;Fideos secos al huevo;1;6
+fideos secos al huevo Las acacias (paquete 500 grs.);fideos secos al huevo Las acacias;Fideos;Las Acacias;Empaque 500 grs.;Empaque;500.0;GR;secos al huevo;Fideos secos al huevo;1;6
+Fideos secos semolados Adria Paquete 500 grs.;Fideos secos semolados Adria;Fideos;Adria;Empaque 500 grs.;Empaque;500.0;GR;secos semolados;Fideos secos semolados;1;6
+fideos secos semolados Adria (paquete 500 grs.);fideos secos semolados Adria;Fideos;Adria;Empaque 500 grs.;Empaque;500.0;GR;secos semolados;Fideos secos semolados;1;6
+Fideos secos semolados Las Acacias - franja celeste Paquete 500 grs.;Fideos secos semolados Las Acacias - franja celeste;Fideos;Las Acacias;Empaque 500 grs.;Empaque;500.0;GR;secos semolados Franja Celeste;Fideos secos semolados Franja Celeste;1;6
+fideos secos semolados Las acacias (paquete 500 grs.);fideos secos semolados Las acacias;Fideos;Las Acacias;Empaque 500 grs.;Empaque;500.0;GR;secos semolados;Fideos secos semolados;1;6
+frankfurter cortos Centenario (paquete 8 us.);frankfurter cortos Centenario;Frankfurter cortos;Centenario;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Frankfurter cortos ;;
+frankfurter cortos Ottonello (paquete 8 us.);frankfurter cortos Ottonello;Frankfurter cortos;Ottonello;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Frankfurter cortos ;;
+frankfurter cortos Schneck (paquete 8 us.);frankfurter cortos Schneck;Frankfurter cortos;Schneck;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Frankfurter cortos ;;
+Frankfurters cortos Centenario Paquete 8 us.;Frankfurters cortos Centenario;Frankfurter cortos;Centenario;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Frankfurter cortos ;;
+Frankfurters cortos Ottonello Paquete 8 us.;Frankfurters cortos Ottonello;Frankfurter cortos;Ottonello;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Frankfurter cortos ;;
+Frankfurters cortos Schneck Paquete 8 us.;Frankfurters cortos Schneck;Frankfurter cortos;Schneck;Empaque 8 Unidades;Empaque;8.0;UNIDADES;;Frankfurter cortos ;;
+galletas saladas al agua El maestro cubano (paquete 120 grs.);galletas saladas al agua El maestro cubano;Galletas ;El Maestro Cubano;Empaque 120 grs.;Empaque;120.0;GR;saladas al agua;Galletas  saladas al agua;;
+galletas saladas al agua Famosa (paquete 140 grs.);galletas saladas al agua Famosa;Galletas ;Famosa;Empaque 140 grs.;Empaque;140.0;GR;saladas al agua;Galletas  saladas al agua;;
+Galletitas al agua Famosa Paquete 140 grs.;Galletitas al agua Famosa;Galletas ;Famosa;Empaque 140 grs.;Empaque;140.0;GR;saladas al agua;Galletas  saladas al agua;;
+Galletitas al agua Maestro Cubano Paquete 120 grs.;Galletitas al agua Maestro Cubano;Galletas ;Maestro Cubano;Empaque 120 grs.;Empaque;120.0;GR;saladas al agua;Galletas  saladas al agua;;
+Gasa estéril 40 us.;Gasa estéril;Gasa esteril;Genérico;Empaque 40 Unidades;Empaque;40.0;UNIDADES;;Gasa esteril ;;
+gasa esteril gasa esteril Sin marca (40 unidades);gasa esteril gasa esteril Sin marca;Gasa esteril;Genérico;Empaque 40 Unidades;Empaque;40.0;UNIDADES;;Gasa esteril ;;
+gaseosa cola Coca-cola (botella 1,5 lt.);gaseosa cola Coca-cola;Gaseosa cola;Coca-Cola;Envase 1,5 lt.;Envase;1.5;LT;;Gaseosa cola ;;
+gaseosa cola Coca-cola (botella 2,25.lt.);gaseosa cola Coca-cola;Gaseosa cola;Coca-Cola;Envase 2,25.lt.;Envase;2.5;LT;;Gaseosa cola ;;
+gaseosa cola Pepsi-cola (botella 1,5 lt.);gaseosa cola Pepsi-cola;Gaseosa cola;Pepsi;Envase 1,5 lt.;Envase;1.5;LT;;Gaseosa cola ;;
+gaseosa cola Pepsi-cola (botella 2 lt.);gaseosa cola Pepsi-cola;Gaseosa cola;Pepsi;Envase 2 lt.;Envase;2.0;LT;;Gaseosa cola ;;
+Gaseosa tipo cola (env. no ret.) Coca Cola Botella 1,5 lt.;Gaseosa tipo cola (env. no ret.) Coca Cola;Gaseosa cola ;Coca-Cola;Envase 1,5 lt.;Envase;1.5;LT;env no ret;Gaseosa cola  env no ret;;
+Gaseosa tipo cola (env. no ret.) Coca Cola_ Botella 2,25.lt.;Gaseosa tipo cola (env. no ret.) Coca Cola_;Gaseosa cola;Coca-Cola;Envase 2,25.lt.;Envase;2.5;LT;env no ret;Gaseosa cola env no ret;;
+Gaseosa tipo cola (env. no ret.) Pepsi Botella 1,5 lt.;Gaseosa tipo cola (env. no ret.) Pepsi;Gaseosa cola;Pepsi;Envase 1,5 lt.;Envase;1.5;LT;env no ret;Gaseosa cola env no ret;;
+Gaseosa tipo cola (env. no ret.) Pepsi Botella 2 lt.;Gaseosa tipo cola (env. no ret.) Pepsi;Gaseosa cola;Pepsi;Envase 2 lt.;Envase;2.0;LT;env no ret;Gaseosa cola env no ret;;
+hamburguesa carne vacuna Burgy (paquete 3 unidades);hamburguesa carne vacuna Burgy;Hamburguesa carne vacuna;Burgy;Empaque 3 Unidades;Empaque;3.0;UNIDADES;;Hamburguesa carne vacuna ;;
+hamburguesa carne vacuna Paty (paquete 2 unidades);hamburguesa carne vacuna Paty;Hamburguesa carne vacuna;Paty;Empaque 2 Unidades;Empaque;2.0;UNIDADES;;Hamburguesa carne vacuna ;;
+hamburguesa carne vacuna Schneck (paquete 2 unidades);hamburguesa carne vacuna Schneck;Hamburguesa carne vacuna;Schneck;Empaque 2 Unidades;Empaque;2.0;UNIDADES;;Hamburguesa carne vacuna ;;
+Hamburguesas carne vacun Burgy Paquete 3 unidades;Hamburguesas carne vacun Burgy;Hamburguesa carne vacuna;Burgy;Empaque 3 Unidades;Empaque;3.0;UNIDADES;;Hamburguesa carne vacuna ;;
+Hamburguesas carne vacun Paty Paquete 2 unidades;Hamburguesas carne vacun Paty;Hamburguesa carne vacuna;Paty;Empaque 2 Unidades;Empaque;2.0;UNIDADES;;Hamburguesa carne vacuna ;;
+Hamburguesas carne vacun Schneck Paquete 2 unidades;Hamburguesas carne vacun Schneck;Hamburguesa carne vacuna;Schneck;Empaque 2 Unidades;Empaque;2.0;UNIDADES;;Hamburguesa carne vacuna ;;
+Harina de maíz Gourmet Paquete 450 grs.;Harina de maíz Gourmet;Harina de maiz;Gourmet;Empaque 450 grs.;Empaque;450.0;GR;;Harina de maiz ;;
+harina de maiz Gourmet (paquete 450 grs.);harina de maiz Gourmet;Harina de maiz;Gourmet;Empaque 450 grs.;Empaque;450.0;GR;;Harina de maiz ;;
+Harina de maíz Presto Pronta Arcor Paquete 500 grs.;Harina de maíz Presto Pronta Arcor;Harina de maiz;Presto Pronta Arcor;Empaque 500 grs.;Empaque;500.0;GR;;Harina de maiz ;;
+harina de maiz Presto pronta arcor (paquete 500 grs.);harina de maiz Presto pronta arcor;Harina de maiz;Presto Pronta Arcor;Empaque 500 grs.;Empaque;500.0;GR;;Harina de maiz ;;
+Harina de maíz Puritas Paquete 450 grs.;Harina de maíz Puritas;Harina de maiz;Puritas;Empaque 450 grs.;Empaque;450.0;GR;;Harina de maiz ;;
+harina de maiz Puritas (paquete 450 grs.);harina de maiz Puritas;Harina de maiz;Puritas;Empaque 450 grs.;Empaque;450.0;GR;;Harina de maiz ;;
+harina de trigo 000 Canuelas (paquete 1 kg.);harina de trigo 000 Canuelas;Harina de trigo;Cañuelas;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 000 Cololo (paquete 1 kg.);harina de trigo 000 Cololo;Harina de trigo;Cololó;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 Canuelas (paquete 1 kg.);harina de trigo 0000 Canuelas;Harina de trigo;Cañuelas;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 Cololo (paquete 1 kg.);harina de trigo 0000 Cololo;Harina de trigo;Cololó;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 Devoto (paquete 1 kg.);harina de trigo 0000 Devoto;Harina de trigo;Devoto;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 El dorado (paquete 1 kg.);harina de trigo 0000 El dorado;Harina de trigo;El Dorado;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 Primor (paquete 1 kg.);harina de trigo 0000 Primor;Harina de trigo;Primor;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 Tata (paquete 1 kg.);harina de trigo 0000 Tata;Harina de trigo;Tata;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+harina de trigo 0000 Tienda inglesa (paquete 1 kg.);harina de trigo 0000 Tienda inglesa;Harina de trigo;Tienda Inglesa;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+Harina trigo común 000 Cañuelas Paquete 1 kg.;Harina trigo común 000 Cañuelas;Harina de trigo;Cañuelas;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+Harina trigo común 000 Cololó Paquete 1 kg.;Harina trigo común 000 Cololó;Harina de trigo;Cololó;Empaque 1 kg.;Empaque;1.0;KG;Común  000;Harina de trigo Común  000;1;4
+Harina trigo común 0000 Cañuelas Paquete 1 kg.;Harina trigo común 0000 Cañuelas;Harina de trigo;Cañuelas;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Cololó Paquete 1 kg.;Harina trigo común 0000 Cololó;Harina de trigo;Cololó;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Granja La Sonrisa Paquete 1 kg.;Harina trigo común 0000 Granja La Sonrisa;Harina de trigo;Granja La Sonrisa;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Marca Propia Paquete 1 kg.;Harina trigo común 0000 Marca Propia;Harina de trigo;Marca Propia;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Marcas Propias Paquete 1 kg.;Harina trigo común 0000 Marcas Propias;Harina de trigo;Marcas Propias;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Precio Líder Paquete 1 kg.;Harina trigo común 0000 Precio Líder;Harina de trigo;Precio Lider;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Primor Paquete 1 kg.;Harina trigo común 0000 Primor;Harina de trigo;Primor;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Tata Paquete 1 kg.;Harina trigo común 0000 Tata;Harina de trigo;Tata;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Tienda Inglesa Paquete 1 kg.;Harina trigo común 0000 Tienda Inglesa;Harina de trigo;Tienda Inglesa;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+helado comun Conaprole (envase 1lt.);helado comun Conaprole;Helado;Conaprole;Envase 1lt.;Envase;1.0;LT;Común;Helado Común;;
+helado comun Crufi (envase 1lt.);helado comun Crufi;Helado;Crufi;Envase 1lt.;Envase;1.0;LT;Común;Helado Común;;
+Helado familiar Conaprole Envase 1lt.;Helado familiar Conaprole;Helado;Conaprole;Envase 1lt.;Envase;1.0;LT;familiar;Helado familiar;;
+Helado familiar Crufi Envase 1lt.;Helado familiar Crufi;Helado;Crufi;Envase 1lt.;Envase;1.0;LT;familiar;Helado familiar;;
+Hipoclorito de sodio Agua Jane Botella 1 lt.;Hipoclorito de sodio Agua Jane;Hipoclorito de sodio;Agua Jane;Envase 1 lt.;Envase;1.0;LT;;Hipoclorito de sodio ;;
+Hipoclorito de sodio Sello Rojo Botella 1 lt.;Hipoclorito de sodio Sello Rojo;Hipoclorito de sodio;Sello Rojo;Envase 1 lt.;Envase;1.0;LT;;Hipoclorito de sodio ;;
+Hipoclorito de sodio Solución Cristal Botella 1 lt.;Hipoclorito de sodio Solución Cristal;Hipoclorito de sodio;Solución Cristal;Envase 1 lt.;Envase;1.0;LT;;Hipoclorito de sodio ;;
+hipolclorito de sodio comun Agua jane (botella 1 lt.);hipolclorito de sodio comun Agua jane;Hipoclorito de sodio;Agua Jane;Envase 1 lt.;Envase;1.0;LT;Común;Hipoclorito de sodio Común;;
+hipolclorito de sodio comun Sello rojo (botella 1 lt.);hipolclorito de sodio comun Sello rojo;Hipoclorito de sodio;Sello Rojo;Envase 1 lt.;Envase;1.0;LT;Común;Hipoclorito de sodio Común;;
+hipolclorito de sodio comun Solucion cristal (botella 1 lt.);hipolclorito de sodio comun Solucion cristal;Hipoclorito de sodio;Solución Cristal;Envase 1 lt.;Envase;1.0;LT;Común;Hipoclorito de sodio Común;;
+Huevos colorados El Jefe Envase 1/2 docena;Huevos colorados El Jefe;Huevos;El Jefe;Empaque 1/2 docena;Empaque;6.0;UNIDADES;colorados;Huevos colorados;1;5
+huevos colorados El jefe (envase 1/2 docena);huevos colorados El jefe;Huevos;El Jefe;Empaque 1/2 docena;Empaque;6.0;UNIDADES;colorados;Huevos colorados;1;5
+Huevos colorados Prodhin Envase 1/2 docena;Huevos colorados Prodhin;Huevos;Prodhin;Empaque 1/2 docena;Empaque;6.0;UNIDADES;colorados;Huevos colorados;1;5
+huevos colorados Prodhin (envase 1/2 docena);huevos colorados Prodhin;Huevos;Prodhin;Empaque 1/2 docena;Empaque;6.0;UNIDADES;colorados;Huevos colorados;1;5
+Huevos colorados Super huevo Envase 1/2 docena;Huevos colorados Super huevo;Huevos;Super Huevo;Empaque 1/2 docena;Empaque;6.0;UNIDADES;colorados;Huevos colorados;1;5
+huevos colorados Super huevo (envase 1/2 docena);huevos colorados Super huevo;Huevos;Super Huevo;Empaque 1/2 docena;Empaque;6.0;UNIDADES;colorados;Huevos colorados;1;5
+Jabón de tocador Ann Bow, 140 grs.;Jabón de tocador Ann Bow;Jabon de tocador;Ann Bow;Empaque 140 grs.;Empaque;140.0;GR;;Jabon de tocador ;1;6
+Jabón de tocador Astral plata Unidad 125 grs.;Jabón de tocador Astral plata;Jabon de tocador;Astral Plata;Empaque Unidad 125 grs.;Empaque;125.0;GR;;Jabon de tocador ;1;6
+Jabón de tocador Dove Blanco, 90 grs.;Jabón de tocador Dove Blanco;Jabon de tocador;Dove;Empaque 90 grs.;Empaque;90.0;GR;Blanco;Jabon de tocador Blanco;1;6
+Jabón de tocador Neutrogena Deep Clean, 80 grs.;Jabón de tocador Neutrogena Deep Clean;Jabon de tocador;Neutrogena;Empaque 80 grs.;Envase;80.0;GR;Deep Clean;Jabon de tocador Deep Clean;1;6
+Jabón de tocador Palmolive Unidad 125 grs.;Jabón de tocador Palmolive;Jabon de tocador;Palmolive;Empaque Unidad 125 grs.;Empaque;125.0;GR;;Jabon de tocador ;1;6
+Jabón de tocador Rexona Unidad 125 grs.;Jabón de tocador Rexona;Jabon de tocador;Rexona;Empaque Unidad 125 grs.;Empaque;125.0;GR;;Jabon de tocador ;1;6
+jabon de tocador en barra Ann bow (140 grs.);jabon de tocador en barra Ann bow;Jabon de tocador;Ann Bow;Empaque 140 grs.;Empaque;140.0;GR;en barra;Jabon de tocador en barra;1;6
+jabon de tocador en barra Astral plata (unidad 125 grs.);jabon de tocador en barra Astral plata;Jabon de tocador;Astral Plata;Empaque Unidad 125 grs.;Empaque;125.0;GR;en barra;Jabon de tocador en barra;1;6
+jabon de tocador en barra Dove original (90 grs.);jabon de tocador en barra Dove original;Jabon de tocador;Dove;Empaque 90 grs.;Empaque;90.0;GR;en barra Original;Jabon de tocador en barra Original;1;6
+jabon de tocador en barra Neutrogena (80 grs.);jabon de tocador en barra Neutrogena;Jabon de tocador;Neutrogena;Empaque 80 grs.;Empaque;80.0;GR;en barra;Jabon de tocador en barra;1;6
+jabon de tocador en barra Palmolive (unidad 125 grs.);jabon de tocador en barra Palmolive;Jabon de tocador;Palmolive;Empaque Unidad 125 grs.;Empaque;125.0;GR;en barra;Jabon de tocador en barra;1;6
+jabon de tocador en barra Rexona (unidad 125 grs.);jabon de tocador en barra Rexona;Jabon de tocador;Rexona;Empaque Unidad 125 grs.;Empaque;125.0;GR;en barra;Jabon de tocador en barra;1;6
+Jabón en polvo máquina Drive Paquete 800 grs.;Jabón en polvo máquina Drive;Jabon para ropa ;Drive;Empaque 800 grs.;Empaque;800.0;GR;en polvo;Jabon para ropa  en polvo;1;1
+Jabón en polvo máquina Nevex Paquete 800 grs.;Jabón en polvo máquina Nevex;Jabon para ropa ;Nevex;Empaque 800 grs.;Empaque;800.0;GR;en polvo;Jabon para ropa  en polvo;1;1
+Jabón en polvo máquina Skip - Paquete azul Paquete 800 grs.;Jabón en polvo máquina Skip -;Jabon para ropa ;Skip;Empaque 800 grs.;Empaque;800.0;GR;en polvo;Jabon para ropa  en polvo;1;1
+Jabón para ropa en barra Bull Dog Unidad 300 grs.;Jabón para ropa en barra Bull Dog;Jabon para ropa ;Bull Dog;Empaque Unidad 300 grs.;Empaque;300.0;GR;en barra;Jabon para ropa  en barra;;
+jabon para ropa en barra Bull dog (unidad 300 grs.);jabon para ropa en barra Bull dog;Jabon para ropa ;Bull Dog;Empaque Unidad 300 grs.;Empaque;300.0;GR;en barra;Jabon para ropa  en barra;;
+Jabón para ropa en barra Nevex Unidad 200 grs.;Jabón para ropa en barra Nevex;Jabon para ropa ;Nevex;Empaque Unidad 200 grs.;Empaque;200.0;GR;en barra;Jabon para ropa  en barra;;
+jabon para ropa en barra Nevex (unidad 200 grs.);jabon para ropa en barra Nevex;Jabon para ropa ;Nevex;Empaque Unidad 200 grs.;Empaque;200.0;GR;en barra;Jabon para ropa  en barra;;
+Jabón para ropa en barra Primor Unidad 300 grs.;Jabón para ropa en barra Primor;Jabon para ropa ;Primor;Empaque Unidad 300 grs.;Empaque;300.0;GR;en barra;Jabon para ropa  en barra;;
+jabon para ropa en barra Primor (unidad 200 grs.);jabon para ropa en barra Primor;Jabon para ropa ;Primor;Empaque Unidad 200 grs.;Empaque;200.0;GR;en barra;Jabon para ropa  en barra;;
+jabon para ropa en polvo para maquina Drive (paquete 800 grs.);jabon para ropa en polvo para maquina Drive;Jabon para ropa ;Drive;Empaque 800 grs.;Empaque;800.0;GR;en polvo;Jabon para ropa  en polvo;1;1
+jabon para ropa en polvo para maquina Nevex (paquete 800 grs.);jabon para ropa en polvo para maquina Nevex;Jabon para ropa ;Nevex;Empaque 800 grs.;Empaque;800.0;GR;en polvo;Jabon para ropa  en polvo;1;1
+jabon para ropa en polvo para maquina Skip paquete azul (paquete 800 grs.);jabon para ropa en polvo para maquina Skip paquete azul;Jabon para ropa ;Skip;Empaque 800 grs.;Empaque;800.0;GR;en polvo Paquete Azul;Jabon para ropa  en polvo Paquete Azul;1;1
+jamon cocido Cattivelli (1 kg.);jamon cocido Cattivelli;Jamon cocido;Cattivelli;1 kg.;Para Empaquetar;1.0;KG;;Jamon cocido ;;
+jamon cocido Ottonello (1 kg.);jamon cocido Ottonello;Jamon cocido;Ottonello;1 kg.;Para Empaquetar;1.0;KG;;Jamon cocido ;;
+Jamón cocido no artesanal Cattivelli 1 kg.;Jamón cocido no artesanal Cattivelli;Jamon cocido;Cattivelli;1 kg.;Para Empaquetar;1.0;KG;no artesanal;Jamon cocido no artesanal;;
+Jamón cocido no artesanal Ottonello 1 kg.;Jamón cocido no artesanal Ottonello;Jamon cocido;Ottonello;1 kg.;Para Empaquetar;1.0;KG;no artesanal;Jamon cocido no artesanal;;
+Lechuga Crespa, 1 unidad;Lechuga Crespa;Lechuga;Genérico;1 Unidad;Para Empaquetar;1.0;UNIDADES;Crespa;Lechuga Crespa;;
+Lechuga Mantecosa, 1 unidad;Lechuga Mantecosa;Lechuga;Genérico;1 Unidad;Para Empaquetar;1.0;UNIDADES;Mantecosa;Lechuga Mantecosa;;
+lechuga crespa Sin marca (1 unidad);lechuga crespa Sin marca;Lechuga;Genérico;1 Unidad;Para Empaquetar;1.0;UNIDADES;Crespa;Lechuga Crespa;;
+lechuga mantecosa Sin marca (1 unidad);lechuga mantecosa Sin marca;Lechuga;Genérico;1 Unidad;Para Empaquetar;1.0;UNIDADES;Mantecosa;Lechuga Mantecosa;;
+Leonesa Ottonello 1 kg.;Leonesa Ottonello;Leonesa;Ottonello;1 kg.;Para Empaquetar;1.0;KG;;Leonesa ;;
+Leonesa Schneck 1 kg.;Leonesa Schneck;Leonesa;Schneck;1 kg.;Para Empaquetar;1.0;KG;;Leonesa ;;
+leonesa comun Schneck (1 kg.);leonesa comun Schneck;Leonesa;Schneck;1 kg.;Para Empaquetar;1.0;KG;;Leonesa ;;
+leonesa de pollo Ottonello (1 kg.);leonesa de pollo Ottonello;Leonesa de pollo;Ottonello;1 kg.;Para Empaquetar;1.0;KG;;Leonesa de pollo ;;
+Manteca Calcar Envase 200 grs.;Manteca Calcar;Manteca;Calcar;Envase 200 grs.;Envase;200.0;GR;;Manteca ;;
+Manteca Conaprole sin sal Envase 200 grs.;Manteca Conaprole sin sal;Manteca;Conaprole;Envase 200 grs.;Envase;200.0;GR;Sin Sal;Manteca Sin Sal;;
+Manteca Kasdorf Envase 200 grs.;Manteca Kasdorf;Manteca;Kasdorf;Envase 200 grs.;Envase;200.0;GR;;Manteca ;;
+manteca sin sal Calcar (envase 200 grs.);manteca sin sal Calcar;Manteca;Calcar;Envase 200 grs.;Envase;200.0;GR;Sin Sal;Manteca Sin Sal;;
+manteca sin sal Conaprole (envase 200 grs.);manteca sin sal Conaprole;Manteca;Conaprole;Envase 200 grs.;Envase;200.0;GR;Sin Sal;Manteca Sin Sal;;
+manteca sin sal Kasdorf (envase 200 grs.);manteca sin sal Kasdorf;Manteca;Kasdorf;Envase 200 grs.;Envase;200.0;GR;Sin Sal;Manteca Sin Sal;;
+Manzana Fuji, 1 kg.;Manzana Fuji;Manzana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Fuji;Manzana Fuji;;
+Manzana Granny Smith, 1 kg.;Manzana Granny Smith;Manzana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Granny Smith;Manzana Granny Smith;;
+Manzana Red Deliciosa, 1 kg.;Manzana Red Deliciosa;Manzana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Red Deliciosa;Manzana Red Deliciosa;;
+manzana fuji Sin marca (1 kg.);manzana fuji Sin marca;Manzana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Fuji;Manzana Fuji;;
+manzana granny smith Sin marca (1 kg.);manzana granny smith Sin marca;Manzana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Granny Smith;Manzana Granny Smith;;
+manzana red deliciosa Sin marca (1 kg.);manzana red deliciosa Sin marca;Manzana;Genérico;1 kg.;Para Empaquetar;1.0;KG;Red Deliciosa;Manzana Red Deliciosa;;
+Margarina Adorita Envase 250 grs.;Margarina Adorita;Margarina;Adorita;Envase 250 grs.;Envase;250.0;GR;;Margarina ;;
+Margarina Doriana nueva Envase 250 grs.;Margarina Doriana nueva;Margarina;Doriana Nueva;Envase 250 grs.;Envase;250.0;GR;;Margarina ;;
+Margarina Qualy Envase 250 grs.;Margarina Qualy;Margarina;Qualy;Envase 250 grs.;Envase;250.0;GR;;Margarina ;;
+margarina con sal Adorita (envase 250 grs.);margarina con sal Adorita;Margarina;Adorita;Envase 250 grs.;Envase;250.0;GR;con sal;Margarina con sal;;
+margarina con sal Doriana nueva (envase 250 grs.);margarina con sal Doriana nueva;Margarina;Doriana Nueva;Envase 250 grs.;Envase;250.0;GR;con sal;Margarina con sal;;
+margarina con sal Qualy (envase 250 grs.);margarina con sal Qualy;Margarina;Qualy;Envase 250 grs.;Envase;250.0;GR;con sal;Margarina con sal;;
+Mayonesa común Hellmans Envase 500 grs.;Mayonesa común Hellmans;Mayonesa comun;Hellmans;Envase 500 grs.;Envase;500.0;GR;;Mayonesa comun ;;
+mayonesa comun Hellmans (envase 500 grs.);mayonesa comun Hellmans;Mayonesa comun;Hellmans;Envase 500 grs.;Envase;500.0;GR;;Mayonesa comun ;;
+Mayonesa común Uruguay Envase 500 grs.;Mayonesa común Uruguay;Mayonesa comun;Uruguay;Envase 500 grs.;Envase;500.0;GR;;Mayonesa comun ;;
+mayonesa comun Uruguay (envase 500 grs.);mayonesa comun Uruguay;Mayonesa comun;Uruguay;Envase 500 grs.;Envase;500.0;GR;;Mayonesa comun ;;
+Mermelada de durazno El Hogar Envase 500 grs.;Mermelada de durazno El Hogar;Mermelada de durazno;El Hogar;Envase 500 grs.;Envase;500.0;GR;;Mermelada de durazno ;;
+mermelada de durazno El hogar (envase 500 grs.);mermelada de durazno El hogar;Mermelada de durazno;El Hogar;Envase 500 grs.;Envase;500.0;GR;;Mermelada de durazno ;;
+Mermelada de durazno Los Nietitos Envase 500 grs.;Mermelada de durazno Los Nietitos;Mermelada de durazno;Los Nietitos;Envase 500 grs.;Envase;500.0;GR;;Mermelada de durazno ;;
+mermelada de durazno Los nietitos (envase 500 grs.);mermelada de durazno Los nietitos;Mermelada de durazno;Los Nietitos;Envase 500 grs.;Envase;500.0;GR;;Mermelada de durazno ;;
+nalga sin hueso Sin marca (1 kg.);nalga sin hueso Sin marca;Nalga vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Nalga vacuna Sin Hueso;;
+Nalga vacuna Con Hueso - Sin Marca 1 kg.;Nalga vacuna Con Hueso - Sin Marca;Nalga vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Nalga vacuna Con Hueso;;
+Nalga vacuna Sin Hueso - Sin Marca 1 kg.;Nalga vacuna Sin Hueso - Sin Marca;Nalga vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Nalga vacuna Sin Hueso;;
+Naranja Navel, 1 kg.;Naranja Navel;Naranja;Genérico;1 kg.;Para Empaquetar;1.0;KG;Navel;Naranja Navel;;
+Naranja Valencia, 1 kg.;Naranja Valencia;Naranja;Genérico;1 kg.;Para Empaquetar;1.0;KG;Valencia;Naranja Valencia;;
+naranja navel Sin marca (1 kg.);naranja navel Sin marca;Naranja;Genérico;1 kg.;Para Empaquetar;1.0;KG;Navel;Naranja Navel;;
+paleta con hueso Sin marca (1 kg.);paleta con hueso Sin marca;Paleta vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Paleta vacuna Con Hueso;;
+paleta sin hueso Sin marca (1 kg.);paleta sin hueso Sin marca;Paleta vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Paleta vacuna Sin Hueso;;
+Paleta vacuna Con Hueso - Sin Marca 1 kg.;Paleta vacuna Con Hueso - Sin Marca;Paleta vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Paleta vacuna Con Hueso;;
+Paleta vacuna Sin Hueso - Sin Marca 1 kg.;Paleta vacuna Sin Hueso - Sin Marca;Paleta vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Paleta vacuna Sin Hueso;;
+pan de molde Bimbo (paquete 330 grs.);pan de molde Bimbo;Pan de molde;Bimbo;Empaque 330 grs.;Empaque;330.0;GR;;Pan de molde ;;
+pan de molde Los sorchantes (paquete 330 grs.);pan de molde Los sorchantes;Pan de molde;Los Sorchantes;Empaque 330 grs.;Empaque;330.0;GR;;Pan de molde ;;
+pan de molde Pan catalan (paquete 330 grs.);pan de molde Pan catalan;Pan de molde;Pan Catalan;Empaque 330 grs.;Empaque;330.0;GR;;Pan de molde ;;
+Pan de molde lacteado Bimbo Paquete 330 grs.;Pan de molde lacteado Bimbo;Pan de molde lacteado;Bimbo;Empaque 330 grs.;Empaque;330.0;GR;;Pan de molde lacteado ;;
+Pan de molde lacteado Los Sorchantes Paquete 330 grs.;Pan de molde lacteado Los Sorchantes;Pan de molde lacteado;Los Sorchantes;Empaque 330 grs.;Empaque;330.0;GR;;Pan de molde lacteado ;;
+Pan de molde lacteado Pan Catalán Paquete 330 grs.;Pan de molde lacteado Pan Catalán;Pan de molde lacteado;Pan Catalan;Empaque 330 grs.;Empaque;330.0;GR;;Pan de molde lacteado ;;
+Pan flauta Sin marca Unidad aprox215 grs.;Pan flauta Sin marca;Pan flauta;Genérico;Empaque 215 grs.;Empaque;215.0;GR;;Pan flauta ;;
+pan flauta Sin marca (unidad aprox215 grs.);pan flauta Sin marca;Pan flauta;Genérico;Empaque 215 grs.;Empaque;215.0;GR;;Pan flauta ;;
+Pañales Babysec Premium Extra Extra Grande, 48 us.;Pañales Babysec Premium Extra Extra Grande;Panales para ninos ;Babysec;Empaque 48 Unidades;Empaque;48.0;UNIDADES;Premium Extra Extra Grande;Panales para ninos  Premium Extra Extra Grande;;
+Pañales Huggies Primeros 100 Dias Pequeño, 40 us.;Pañales Huggies Primeros 100 Dias Pequeño;Panales para ninos ;Huggies;Empaque 40 Unidades;Empaque;40.0;UNIDADES;Primeros 100 Dias Pequeno;Panales para ninos  Primeros 100 Dias Pequeno;;
+Pañales Adultos Readysec Grande, 24 us.;Pañales Adultos Readysec Grande;Panales para adultos;Readysec;Empaque 24 Unidades;Empaque;24.0;UNIDADES;Grande;Panales para adultos Grande;;
+panales para adultos comun Readysec (24 unidades);panales para adultos comun Readysec;Panales para adultos;Readysec;Empaque 24 Unidades;Empaque;24.0;UNIDADES;Común;Panales para adultos Común;;
+panales para ninos comun Babysec (48 unidades);panales para ninos comun Babysec;Panales para ninos ;Babysec;Empaque 48 Unidades;Empaque;48.0;UNIDADES;Común;Panales para ninos  Común;;
+panales para ninos comun Huggies (40 unidades);panales para ninos comun Huggies;Panales para ninos ;Huggies;Empaque 40 Unidades;Empaque;40.0;UNIDADES;Común;Panales para ninos  Común;;
+Papa Blanca, 1 kg.;Papa Blanca;Papa;Genérico;1 kg.;Para Empaquetar;1.0;KG;Blanca;Papa Blanca;;
+Papa Rosada, 1 kg.;Papa Rosada;Papa;Genérico;1 kg.;Para Empaquetar;1.0;KG;Rosada;Papa Rosada;;
+papa blanca Sin marca (1 kg.);papa blanca Sin marca;Papa;Genérico;1 kg.;Para Empaquetar;1.0;KG;Blanca;Papa Blanca;;
+papa rosada Sin marca (1 kg.);papa rosada Sin marca;Papa;Genérico;1 kg.;Para Empaquetar;1.0;KG;Rosada;Papa Rosada;;
+Papel higiénico hoja simple Elite 4 rollos de 30 mts.;Papel higiénico hoja simple Elite;Papel higienico ;Elite;Empaque 4 rollos de 30 mts.;Empaque;4.0;ROLLOS;hoja simple;Papel higienico  hoja simple;;
+papel higienico hoja simple Elite (4 rollos de 30 mts.);papel higienico hoja simple Elite;Papel higienico ;Elite;Empaque 4 rollos de 30 mts.;Empaque;4.0;ROLLOS;hoja simple;Papel higienico  hoja simple;;
+Papel higiénico hoja simple Higienol Export 4 rollos de 30 mts.;Papel higiénico hoja simple Higienol Export;Papel higienico ;Higienol Export;Empaque 4 rollos de 30 mts.;Empaque;4.0;ROLLOS;hoja simple;Papel higienico  hoja simple;;
+papel higienico hoja simple Higienol export (4 rollos de 30 mts.);papel higienico hoja simple Higienol export;Papel higienico ;Higienol Export;Empaque 4 rollos de 30 mts.;Empaque;4.0;ROLLOS;hoja simple;Papel higienico  hoja simple;;
+Papel higiénico hoja simple Sin Fin 4 rollos de 50 mts.;Papel higiénico hoja simple Sin Fin;Papel higienico ;Sin Fin;Empaque 4 rollos de 50 mts.;Empaque;4.0;ROLLOS;hoja simple;Papel higienico  hoja simple;;
+papel higienico hoja simple Sin fin (4 rollos de 50 mts.);papel higienico hoja simple Sin fin;Papel higienico ;Sin Fin;Empaque 4 rollos de 50 mts.;Empaque;4.0;ROLLOS;hoja simple;Papel higienico  hoja simple;;
+Pasta dental Colgate Herbal Blanqueador Unidad 90 grs.;Pasta dental Colgate Herbal Blanqueador;Pasta dental;Colgate;Envase  90 grs.;Envase;90.0;GR;Herbal Blanqueador;Pasta dental Herbal Blanqueador;;
+Pasta dental Kolynos Triple acción Unidad 90 grs.;Pasta dental Kolynos Triple acción;Pasta dental;Kolynos;Envase  90 grs.;Envase;90.0;GR;Triple Accion;Pasta dental Triple Accion;;
+Pasta dental Pico Jenner Plus Unidad 90 grs.;Pasta dental Pico Jenner Plus;Pasta dental;Pico Jenner;Envase  90 grs.;Envase;90.0;GR;Plus;Pasta dental Plus;;
+pasta dental comun Colgate herbal blanqueador (90 grs.);pasta dental comun Colgate herbal blanqueador;Pasta dental;Colgate;Envase 90 grs.;Envase;90.0;GR;Herbal Blanqueador;Pasta dental Herbal Blanqueador;;
+pasta dental comun Kolynos triple accion (90 grs.);pasta dental comun Kolynos triple accion;Pasta dental;Kolynos;Envase 90 grs.;Envase;90.0;GR;Triple Accion;Pasta dental Triple Accion;;
+pasta dental comun Pico jenner plus (90 grs.);pasta dental comun Pico jenner plus;Pasta dental;Pico Jenner;Envase 90 grs.;Envase;90.0;GR;Plus;Pasta dental Plus;;
+peceto sin hueso Sin marca (1 kg.);peceto sin hueso Sin marca;Peceto vacuno;Genérico;1 kg.;Para Empaquetar;1.0;KG;sin hueso;Peceto vacuno sin hueso;;
+Peceto vacuno Sin Marca 1 kg.;Peceto vacuno Sin Marca;Peceto vacuno;Genérico;1 kg.;Para Empaquetar;1.0;KG;;Peceto vacuno ;;
+Bebe & Co Colonia + Talco, 120 ml.;Bebe & Co Colonia + Talco;Perfume;Bebe & Co;Envase 120 ml.;Envase;120.0;ML;Colonia Talco;Perfume Colonia Talco;;
+Perfume Casapueblo 24 Heures Blue Edt, 100 ml.;Perfume Casapueblo 24 Heures Blue Edt;Perfume;Casapueblo;Envase 100 ml.;Envase;100.0;ML;24 Heures Blue Edt;Perfume 24 Heures Blue Edt;;
+Perfume Delice Candy, 50 ml.;Perfume Delice Candy;Perfume;Delice Candy;Envase 50 ml.;Envase;50.0;ML;;Perfume ;;
+perfume comun Bebe & co. (120 ml.);perfume comun Bebe & co.;Perfume comun;Bebe & Co;Envase 120 ml.;Envase;120.0;ML;;Perfume comun ;;
+perfume comun Casapueblo (100 ml.);perfume comun Casapueblo;Perfume comun;Casapueblo;Envase 100 ml.;Envase;100.0;ML;;Perfume comun ;;
+perfume comun Delice candy (50 ml.);perfume comun Delice candy;Perfume;Delice Candy;Envase 50 ml.;Envase;50.0;ML;;Perfume ;;
+Pescado fresco bifes de merluz - sin marca 1 kg.;Pescado fresco bifes de merluz - sin marca;Pescado;Genérico;1 kg.;Para Empaquetar;1.0;KG;Merluza en bifes;Pescado Merluza en bifes;;
+pescado fresco bifes de merluza Sin marca (1 kg.);pescado fresco bifes de merluza Sin marca;Pescado;Genérico;1 kg.;Para Empaquetar;1.0;KG;Merluza en bifes;Pescado Merluza en bifes;;
+pollo entero con menudos fresco Avicolas del oeste (1 kg.);pollo entero con menudos fresco Avicolas del oeste;Pollo ;Avicolas del Oeste;1 kg.;Para Empaquetar;1.0;KG;entero con menudos fresco;Pollo  entero con menudos fresco;1;6
+pollo entero con menudos fresco Tres arroyos (1 kg.);pollo entero con menudos fresco Tres arroyos;Pollo ;Tres Arroyos;1 kg.;Para Empaquetar;1.0;KG;entero con menudos fresco;Pollo  entero con menudos fresco;1;6
+Pollo entero fresco con menudos Avícola del Oeste 1 kg.;Pollo entero fresco con menudos Avícola del Oeste;Pollo ;Avícola del Oeste;1 kg.;Para Empaquetar;1.0;KG;entero con menudos fresco;Pollo  entero con menudos fresco;1;6
+Pollo entero fresco con menudos Tres Arroyos 1 kg.;Pollo entero fresco con menudos Tres Arroyos;Pollo ;Tres Arroyos;1 kg.;Para Empaquetar;1.0;KG;entero con menudos fresco;Pollo  entero con menudos fresco;1;6
+Protector solar SPF 20 Dermaglós 250 ml.;Protector solar SPF 20 Dermaglós;Protector solar;Dermaglós;Envase 250 ml.;Envase;250.0;ML;Spf 20;Protector solar Spf 20;;
+Protector solar SPF 40 Dermaglós 250 ml.;Protector solar SPF 40 Dermaglós;Protector solar;Dermaglós;Envase 250 ml.;Envase;250.0;ML;Spf 40;Protector solar Spf 40;;
+protector solar spf 20 Dermaglos (250 ml.);protector solar spf 20 Dermaglos;Protector solar;Dermaglós;Envase 250 ml.;Envase;250.0;ML;Spf 20;Protector solar Spf 20;;
+protector solar spf 40 Dermaglos (250 ml.);protector solar spf 40 Dermaglos;Protector solar;Dermaglós;Envase 250 ml.;Envase;250.0;ML;Spf 40;Protector solar Spf 40;;
+Protector solar SPF 50 Eucerin 150 ml.;Protector solar SPF 50 Eucerin;Protector solar;Eucerin;Envase 150 ml.;Envase;150.0;ML;Spf 50;Protector solar Spf 50;;
+Protector solar SPF 30 Hawaiian Tropic 180 ml.;Protector solar SPF 30 Hawaiian Tropic;Protector solar;Hawaiian Tropic;Envase 180 ml.;Envase;180.0;ML;Spf 30;Protector solar Spf 30;;
+Protector solar SPF 80 Hawaiian Tropic 240 ml.;Protector solar SPF 80 Hawaiian Tropic;Protector solar;Hawaiian Tropic;Envase 240 ml.;Envase;240.0;ML;Spf 80;Protector solar Spf 80;;
+protector solar spf 30 Hawaiian tropic (180 ml.);protector solar spf 30 Hawaiian tropic;Protector solar;Hawaiian Tropic;Envase 180 ml.;Envase;180.0;ML;Spf 30;Protector solar Spf 30;;
+protector solar spf 50 Hawaiian tropic (240 ml.);protector solar spf 50 Hawaiian tropic;Protector solar;Hawaiian Tropic;Envase 240 ml.;Envase;240.0;ML;Spf 50;Protector solar Spf 50;;
+Protector solar SPF 60 Soundown 120 ml.;Protector solar SPF 60 Soundown;Protector solar;Soundown;Envase 120 ml.;Envase;120.0;ML;Spf 60;Protector solar Spf 60;;
+protector solar spf 60 Sundown (120 ml.);protector solar spf 60 Sundown;Protector solar;Sundown;Envase 120 ml.;Envase;120.0;ML;Spf 60;Protector solar Spf 60;;
+Pulpa de tomate Conaprole Envase 1 lt.;Pulpa de tomate Conaprole;Pulpa de tomate;Conaprole;Envase 1 lt.;Envase;1.0;LT;;Pulpa de tomate ;1;6
+Pulpa de tomate De Ley Envase 1,020 lt.;Pulpa de tomate De Ley;Pulpa de tomate;De Ley;Envase 1,020 lt.;Envase;1.02;LT;;Pulpa de tomate ;1;6
+Pulpa de tomate Gourmet Envase 1 lt.;Pulpa de tomate Gourmet;Pulpa de tomate;Gourmet;Envase 1 lt.;Envase;1.0;LT;;Pulpa de tomate ;1;6
+pulpa de tomate concentrada comun Conaprole (envase 1 lt.);pulpa de tomate concentrada comun Conaprole;Pulpa de tomate;Conaprole;Envase 1 lt.;Envase;1.0;LT;;Pulpa de tomate ;1;6
+pulpa de tomate concentrada comun De ley (envase 1,020 lt.);pulpa de tomate concentrada comun De ley;Pulpa de tomate;De Ley;Envase 1,020 lt.;Envase;1.02;LT;;Pulpa de tomate ;1;6
+pulpa de tomate concentrada comun Gourmet (envase 1 lt.);pulpa de tomate concentrada comun Gourmet;Pulpa de tomate;Gourmet;Envase 1 lt.;Envase;1.0;LT;;Pulpa de tomate ;1;6
+Queso rallado Artesano Paquete 80 grs.;Queso rallado Artesano;Queso rallado;Artesano;Empaque 80 grs.;Empaque;80.0;GR;;Queso rallado ;;
+queso rallado Artesano (paquete 80 grs.);queso rallado Artesano;Queso rallado;Artesano;Empaque 80 grs.;Empaque;80.0;GR;;Queso rallado ;;
+Queso rallado Conaprole Paquete 80 grs.;Queso rallado Conaprole;Queso rallado;Conaprole;Empaque 80 grs.;Empaque;80.0;GR;;Queso rallado ;;
+queso rallado Conaprole (paquete 80 grs.);queso rallado Conaprole;Queso rallado;Conaprole;Empaque 80 grs.;Empaque;80.0;GR;;Queso rallado ;;
+Queso rallado Milky Paquete 80 grs.;Queso rallado Milky;Queso rallado;Milky;Empaque 80 grs.;Empaque;80.0;GR;;Queso rallado ;;
+queso rallado Milky (paquete 80 grs.);queso rallado Milky;Queso rallado;Milky;Empaque 80 grs.;Empaque;80.0;GR;;Queso rallado ;;
+Repelente aerosol Júpiter, 165 cm3;Repelente aerosol Júpiter;Repelente de mosquitos;Júpiter;Envase 165 cm3;Envase;165;CC;aerosol;Repelente de mosquitos aerosol;;
+Repelente aerosol Off! Family Aerosol, 170cm3;Repelente aerosol Off! Family Aerosol;Repelente de mosquitos;Off;Envase 170 cm3;Envase;170;CC;aerosol Family;Repelente de mosquitos aerosol Family;;
+Repelente aerosol Off! Larga Duración, 170 cm3;Repelente aerosol Off! Larga Duración;Repelente de mosquitos;Off;Envase 170 cm3;Envase;170;CC;aerosol Larga Duracion;Repelente de mosquitos aerosol Larga Duracion;;
+Repelente crema Júpiter, 80 grs.;Repelente crema Júpiter;Repelente de mosquitos;Júpiter;Envase 80 grs.;Envase;80.0;CC;crema;Repelente de mosquitos crema;;
+Repelente crema Off! Family, 200 grs.;Repelente crema Off! Family;Repelente de mosquitos;Off;Envase 200 grs.;Envase;200.0;CC;crema Family;Repelente de mosquitos crema Family;;
+Repelente crema Off! Kids, 90grs.;Repelente crema Off! Kids;Repelente de mosquitos;Off;Envase 90 grs.;Envase;90.0;CC;crema Kids;Repelente de mosquitos crema Kids;;
+repelente de mosquitos aerosol Jupiter (165 cm3);repelente de mosquitos aerosol Jupiter;Repelente de mosquitos;Júpiter;Envase 165 cm3;Envase;165;CC;aerosol;Repelente de mosquitos aerosol;;
+repelente de mosquitos aerosol Off! (170 cm3);repelente de mosquitos aerosol Off!;Repelente de mosquitos;Off;Envase 170 cm3;Envase;170;CC;aerosol;Repelente de mosquitos aerosol;;
+repelente de mosquitos crema Jupiter (80 grs.);repelente de mosquitos crema Jupiter;Repelente de mosquitos;Júpiter;Envase 80 grs.;Envase;80.0;CC;crema;Repelente de mosquitos crema;;
+repelente de mosquitos crema Off! (200 grs.);repelente de mosquitos crema Off!;Repelente de mosquitos;Off;Envase 200 grs.;Envase;200.0;CC;crema;Repelente de mosquitos crema;;
+repelente de mosquitos crema Off! (90 grs.);repelente de mosquitos crema Off!;Repelente de mosquitos;Off;Envase 90 grs.;Envase;90.0;CC;aerosol;Repelente de mosquitos aerosol;;
+repelente de mosquitos spray Off! (177 cm3);repelente de mosquitos spray Off!;Repelente de mosquitos;Off;Envase 177 cm3;Envase;177;CC;aerosol;Repelente de mosquitos aerosol;;
+Repelente spray Off! Family, 177 cm3;Repelente spray Off! Family;Repelente de mosquitos;Off;Envase 177 cm3;Envase;177;CC;aerosol Family;Repelente de mosquitos aerosol Family;;
+rueda con hueso Sin marca (1 kg);rueda con hueso Sin marca;Rueda vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Rueda vacuna Con Hueso;;
+Rueda Vacuna Con Hueso - Sin Marca 1 kg;Rueda Vacuna Con Hueso - Sin Marca;Rueda vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Rueda vacuna Con Hueso;;
+sal fina Sek (paquete 500 grs.);sal fina Sek;Sal ;Sek;Empaque 500 grs.;Empaque;500.0;GR;fina;Sal  fina;;
+sal fina Torrevieja (paquete 500 grs.);sal fina Torrevieja;Sal ;Torrevieja;Empaque 500 grs.;Empaque;500.0;GR;fina;Sal  fina;;
+sal fina Urusal (paquete 500 grs.);sal fina Urusal;Sal ;Urusal;Empaque 500 grs.;Empaque;500.0;GR;fina;Sal  fina;;
+Sal fina yodada fluorada Sek Paquete 500 grs.;Sal fina yodada fluorada Sek;Sal ;Sek;Empaque 500 grs.;Empaque;500.0;GR;fina yodada fluorada;Sal  fina yodada fluorada;;
+Sal fina yodada fluorada Torrevieja Paquete 500 grs.;Sal fina yodada fluorada Torrevieja;Sal ;Torrevieja;Empaque 500 grs.;Empaque;500.0;GR;fina yodada fluorada;Sal  fina yodada fluorada;;
+Sal fina yodada fluorada Urusal Paquete 500 grs.;Sal fina yodada fluorada Urusal;Sal ;Urusal;Empaque 500 grs.;Empaque;500.0;GR;fina yodada fluorada;Sal  fina yodada fluorada;;
+shampoo comun Dove original (400 ml.);shampoo comun Dove original;Champu;Dove;Envase 400 ml.;Envase;400.0;ML;Común Original;Champu Común Original;;
+shampoo comun Fructis (envase 350 ml.);shampoo comun Fructis;Shampoo comun;Fructis;Envase 350 ml.;Envase;350.0;ML;;Shampoo comun ;;
+shampoo comun Pantene (400 ml.);shampoo comun Pantene;Champu;Pantene;Envase 400 ml.;Envase;400.0;ML;Común;Champu Común;;
+shampoo comun Sedal (envase 350 ml.);shampoo comun Sedal;Shampoo comun;Sedal;Envase 350 ml.;Envase;350.0;ML;;Shampoo comun ;;
+shampoo comun Suave (envase 930 ml.);shampoo comun Suave;Shampoo comun;Suave;Envase 930 ml.;Envase;930.0;ML;;Shampoo comun ;;
+Talco J&J Regular, 200 grs.;Talco J&J Regular;Talco;Johnson & Johnson;Envase 200 grs.;Envase;200.0;GR;Regular;Talco Regular;;
+Talco Xanapie Aerosol, 175 ml.;Talco Xanapie Aerosol;Talco;Xanapie;Envase 175 ml.;Envase;175.0;ML;Aerosol;Talco Aerosol;;
+Talco Xanapie Bolsa Repuesto, 180 grs.;Talco Xanapie Bolsa Repuesto;Talco;Xanapie;Envase 180 grs.;Envase;180.0;GR;Bolsa Repuesto;Talco Bolsa Repuesto;;
+talco comun Johnson & johnson (200 grs.);talco comun Johnson & johnson;Talco;Johnson & Johnson;Envase 200 grs.;Envase;200.0;GR;Común;Talco Común;;
+talco comun Xanapie (175 ml.);talco comun Xanapie;Talco comun;Xanapie;Envase 175 ml.;Envase;175.0;ML;;Talco comun ;;
+talco comun Xanapie (180 grs.);talco comun Xanapie;Talco ;Xanapie;Envase 180 grs.;Envase;180.0;GR;Común;Talco  Común;;
+Té negro en saquitos Hornimans Caja 10 us.;Té negro en saquitos Hornimans;Te saquitos;Hornimans;Empaque 10 Unidades;Empaque;10.0;UNIDADES;negro;Te saquitos negro;;
+Té negro en saquitos La Virginia Caja 10 us.;Té negro en saquitos La Virginia;Te saquitos;La Virginia;Empaque 10 Unidades;Empaque;10.0;UNIDADES;negro;Te saquitos negro;;
+Té negro en saquitos President Caja 10 us.;Té negro en saquitos President;Te saquitos;President;Empaque 10 Unidades;Empaque;10.0;UNIDADES;negro;Te saquitos negro;;
+te saquitos Hornimans (caja 10 us.);te saquitos Hornimans;Te saquitos;Hornimans;Empaque 10 Unidades;Empaque;10.0;UNIDADES;;Te saquitos ;;
+te saquitos La virginia (caja 10 us.);te saquitos La virginia;Te saquitos;La Virginia;Empaque 10 Unidades;Empaque;10.0;UNIDADES;;Te saquitos ;;
+te saquitos President (caja 10 us.);te saquitos President;Te saquitos;President;Empaque 10 Unidades;Empaque;10.0;UNIDADES;;Te saquitos ;;
+Tinta Excellence Tinta N.9, 1 unidad;Tinta Excellence Tinta N.9;Tinta;Excellence;Empaque 1 Unidad;Empaque;1.0;UNIDADES;N 9;Tinta N 9;;
+Tinta Garnier Nutrisse Intense N.8.0, 1 unidad;Tinta Garnier Nutrisse Intense N.8.0;Tinta;Garnier;Empaque 1 Unidad;Empaque;1.0;UNIDADES;Nutrisse Intense N 8 0;Tinta Nutrisse Intense N 8 0;;
+Tinta Issue Decolorante Semilla Lino 30 Grs., 1 unidad;Tinta Issue Decolorante Semilla Lino 30 Grs.;Tinta;Issue;Empaque 1 Unidad;Empaque;1.0;UNIDADES;Decolorante Semilla Lino 30 Grs;Tinta Decolorante Semilla Lino 30 Grs;;
+tinta comun Excellence (1 unidad);tinta comun Excellence;Tinta comun;Excellence;Empaque 1 Unidad;Empaque;1.0;UNIDADES;;Tinta comun ;;
+tinta comun Garnier (1 unidad);tinta comun Garnier;Tinta comun;Garnier;Empaque 1 Unidad;Empaque;1.0;UNIDADES;;Tinta comun ;;
+tinta comun Issue (1 unidad);tinta comun Issue;Tinta comun;Issue;Empaque 1 Unidad;Empaque;1.0;UNIDADES;;Tinta comun ;;
+Toallitas Femenias Siempre Libre Nocturna Max Con Alas, 8 us.;Toallitas Femenias Siempre Libre Nocturna Max Con Alas;Toallitas femeninas;Siempre Libre;Empaque 8 Unidades;Empaque;8.0;UNIDADES;Femeninas Nocturna Max Con Alas;Toallitas femeninas Femeninas Nocturna Max Con Alas;;
+Toallitas Femeninas Ladysoft Basica, 16 us.;Toallitas Femeninas Ladysoft Basica;Toallitas femeninas;Ladysoft;Empaque 16 Unidades;Empaque;16.0;UNIDADES;Basica;Toallitas femeninas Basica;;
+toallitas y tampones comun Ladysoft (16 unidades);toallitas y tampones comun Ladysoft;Toallitas y tampones;Ladysoft;Empaque 16 Unidades;Empaque;16.0;UNIDADES;Común;Toallitas y tampones Común;;
+toallitas y tampones comun Siempre libre (8 unidades);toallitas y tampones comun Siempre libre;Toallitas y tampones;Siempre Libre;Empaque 8 Unidades;Empaque;8.0;UNIDADES;Común;Toallitas y tampones Común;;
+Tomate Americano, 1 kg.;Tomate Americano;Tomate;Genérico;1 kg.;Para Empaquetar;1.0;KG;Americano;Tomate Americano;;
+Tomate Perita, 1 kg.;Tomate Perita;Tomate;Genérico;1 kg.;Para Empaquetar;1.0;KG;Perita;Tomate Perita;;
+tomate americano Sin marca (1 kg.);tomate americano Sin marca;Tomate;Genérico;1 kg.;Para Empaquetar;1.0;KG;Americano;Tomate Americano;;
+tomate perita Sin marca (1 kg.);tomate perita Sin marca;Tomate;Genérico;1 kg.;Para Empaquetar;1.0;KG;Perita;Tomate Perita;;
+vino tinto Faisan (envase 1 lt.);vino tinto Faisan;Vino tinto;Faisán;Envase 1 lt.;Envase;1.0;LT;Común tetrabrick;Vino tinto Común tetrabrick;;
+vino tinto Santa teresa clasico (envase 1 lt.);vino tinto Santa teresa clasico;Vino tinto;Santa Teresa;Envase 1 lt.;Envase;1.0;LT;Común tetrabrick Clasico;Vino tinto Común tetrabrick Clasico;;
+vino tinto Tango (envase 1 lt.);vino tinto Tango;Vino tinto;Tango;Envase 1 lt.;Envase;1.0;LT;Común tetrabrick;Vino tinto Común tetrabrick;;
+Vino tinto común tetrabrick Faisán Envase 1 lt.;Vino tinto común tetrabrick Faisán;Vino tinto;Faisán;Envase 1 lt.;Envase;1.0;LT;Común tetrabrick;Vino tinto Común tetrabrick;;
+Vino tinto común tetrabrick Santa Teresa Clásico Envase 1 lt.;Vino tinto común tetrabrick Santa Teresa Clásico;Vino tinto;Santa Teresa;Envase 1 lt.;Envase;1.0;LT;Común tetrabrick Clasico;Vino tinto Común tetrabrick Clasico;;
+Vino tinto común tetrabrick Tango Envase 1 lt.;Vino tinto común tetrabrick Tango;Vino tinto;Tango;Envase 1 lt.;Envase;1.0;LT;Común tetrabrick;Vino tinto Común tetrabrick;;
+Yerba mate común Baldo Paquete1 kg.;Yerba mate común Baldo;Yerba mate;Baldo;Empaque 1 kg.;Empaque;1.0;KG;Común;Yerba mate Común;1;2
+Yerba mate común Canarias Paquete1 kg.;Yerba mate común Canarias;Yerba mate;Canarias;Empaque 1 kg.;Empaque;1.0;KG;Común;Yerba mate Común;1;2
+Yerba mate común Del Cebador Paquete1 kg.;Yerba mate común Del Cebador;Yerba mate;Del Cebador;Empaque 1 kg.;Empaque;1.0;KG;Común;Yerba mate Común;1;2
+yerba mate sin tipo Baldo (paquete1 kg.);yerba mate sin tipo Baldo;Yerba mate;Baldo;Empaque 1 kg.;Empaque;1.0;KG;sin tipo;Yerba mate sin tipo;1;2
+yerba mate sin tipo Canarias (paquete1 kg.);yerba mate sin tipo Canarias;Yerba mate;Canarias;Empaque 1 kg.;Empaque;1.0;KG;sin tipo;Yerba mate sin tipo;1;2
+yerba mate sin tipo Del cebador (paquete1 kg.);yerba mate sin tipo Del cebador;Yerba mate;Del Cebador;Empaque 1 kg.;Empaque;1.0;KG;sin tipo;Yerba mate sin tipo;1;2
+Yogur Calcar Sachet 1 lt.;Yogur Calcar;Yogur;Calcar;Sachet 1 lt.;Sachet;1.0;LT;;Yogur ;;
+Yogur Conaprole BIO TOP Sachet1,200 lt.;Yogur Conaprole BIO TOP;Yogur;Conaprole;Sachet 1,200 lt.;Sachet;1.2;LT;Bio Top;Yogur Bio Top;;
+Yogur Parmalat Bio Yogur Sachet 1 lt.;Yogur Parmalat Bio Yogur;Yogur;Parmalat;Sachet 1 lt.;Sachet;1.0;LT;Bio Yogur;Yogur Bio Yogur;;
+yogur semi-descremado Calcar (sachet 1 lt.);yogur semi-descremado Calcar;Yogur;Calcar;Sachet 1 lt.;Sachet;1.0;LT;semi descremado;Yogur semi descremado;;
+yogur semi-descremado Conaprole (sachet1,200 lt.);yogur semi-descremado Conaprole;Yogur;Conaprole;Sachet 1,200 lt.;Sachet;1.2;LT;semi descremado;Yogur semi descremado;;
+yogur semi-descremado Parmalat (sachet 1 lt.);yogur semi-descremado Parmalat;Yogur;Parmalat;Sachet 1 lt.;Sachet;1.0;LT;semi descremado;Yogur semi descremado;;
+Zapallo Calabacín, 1 kg.;Zapallo Calabacín;Zapallo;Genérico;1 kg.;Para Empaquetar;1.0;KG;Calabacin;Zapallo Calabacin;;
+Zapallo Criollo, 1 kg.;Zapallo Criollo;Zapallo;Genérico;1 kg.;Para Empaquetar;1.0;KG;Criollo;Zapallo Criollo;;
+zapallo calabacin Sin marca (1 kg.);zapallo calabacin Sin marca;Zapallo;Genérico;1 kg.;Para Empaquetar;1.0;KG;Calabacin;Zapallo Calabacin;;
+zapallo criollo Sin marca (1 kg.);zapallo criollo Sin marca;Zapallo;Genérico;1 kg.;Para Empaquetar;1.0;KG;Criollo;Zapallo Criollo;;
