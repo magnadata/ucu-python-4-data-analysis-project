@@ -448,17 +448,14 @@ else:
 # Tablas adicionales
 # ============================================================
 
-st.subheader("🧾 Reportes varios")
-
+#st.subheader("🧾 Reportes varios")
 tab1, tab2, tab3 = st.tabs([
-    "Precio por comercio",
+    "Canasta familiar",
     "Precio por producto/marca",
-    "Canasta familiar"
+    "Precio por comercio"
 ])
 
-with tab1:
-
-
+with tab3:
     if {"Super", "Precio"}.issubset(df_filtrado.columns):
         columnas_super = [
             col for col in ["Super", "tipo_producto", "marca", "nombre_comercial"]
@@ -510,8 +507,8 @@ with tab2:
     else:
         st.info("No hay columnas suficientes para generar la tabla por producto/marca.")
 
-with tab3:
-    st.markdown("### 🧺 Costo de canasta agrupado por tipo de producto")
+with tab1:
+    #st.markdown("### 🧺 Costo de canasta agrupado por tipo de producto")
     #st.markdown(
     #    """
     #    Definición de la canasta familiar:
@@ -622,7 +619,7 @@ with tab3:
             if {"Periodo", "costo_canasta"}.issubset(tabla_canasta.columns):
                 st.markdown("#### Evolución del costo de canasta")
 
-                fig_linea, ax_linea = plt.subplots(figsize=(11, 5))
+                fig_linea, ax_linea = plt.subplots(figsize=(11, 10))
 
                 if "Super" in tabla_canasta.columns:
                     sns.lineplot(
