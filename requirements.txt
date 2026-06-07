@@ -4,4 +4,5 @@ matplotlib
 plotly
 scikit-learn
 streamlit
-seaborn 
+seaborn
+plotly-express
