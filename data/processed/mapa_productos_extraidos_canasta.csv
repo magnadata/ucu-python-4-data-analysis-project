@@ -1,6 +1,6 @@
 Producto;producto_base;tipo_producto;marca;presentacion;tipo_envoltorio;presentacion_valor;presentacion_unidad;especificacion;nombre_comercial;canasta_producto;canasta_cantidad
 Aceite de girasol Marca Propia Envase 900 cc;Aceite de girasol Marca Propia;Aceite;Marca Propia;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
-Aceite de girasol Marcas Propias Envase 900 cc;Aceite de girasol Marcas Propias;Aceite;Marcas Propias;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
+Aceite de girasol Marcas Propias Envase 900 cc;Aceite de girasol Marca Propia;Aceite;Marca Propia;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
 Aceite de girasol Precio Líder Envase 900 cc;Aceite de girasol Precio Líder;Aceite;Precio Lider;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
 Aceite de girasol Río de la Plata Envase 900 cc;Aceite de girasol Río de la Plata;Aceite;Río de la Plata;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
 Aceite de girasol Tata Envase 900 cc;Aceite de girasol Tata;Aceite;Tata;Envase 900 cc;Envase;900.0;CC;de girasol;Aceite de girasol;1;2
@@ -31,16 +31,16 @@ Agua de mesa con gas Salus Envase 2,25 lt.;Agua de mesa con gas Salus;Agua;Salus
 Agua de mesa sin gas Matutina 2,5 lts;Agua de mesa sin gas Matutina;Agua;Matutina;Envase 2,5 lts;Envase;5.0;LT;de mesa sin gas;Agua de mesa sin gas;;
 Agua de mesa sin gas Salus 2,25 lts;Agua de mesa sin gas Salus;Agua;Salus;Envase 2,25 lts;Envase;2.25;LT;de mesa sin gas;Agua de mesa sin gas;;
 Agua de mesa sin gas Vitale 2,5 lts;Agua de mesa sin gas Vitale;Agua;Vitale;Envase 2,5 lts;Envase;5.0;LT;de mesa sin gas;Agua de mesa sin gas;;
-agua mineral con gas Matutina (envase 2,5 lt.);agua mineral con gas Matutina;Agua ;Matutina;Envase 2,5 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
-agua mineral con gas Nativa (envase 2,5 lt.);agua mineral con gas Nativa;Agua ;Nativa;Envase 2,5 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
-agua mineral con gas Salus (envase 2,25 lt.);agua mineral con gas Salus;Agua ;Salus;Envase 2,25 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
-agua mineral sin gas Matutina (envase 2,5lt.);agua mineral sin gas Matutina;Agua ;Matutina;Envase 2,5lt.;Envase;5.0;LT;mineral sin gas;Agua  mineral sin gas;;
-agua mineral sin gas Nativa (envase 6lt.);agua mineral sin gas Nativa;Agua ;Nativa;Envase 6lt.;Envase;6.0;LT;mineral sin gas;Agua  mineral sin gas;;
-agua mineral sin gas Salus (envase 2,25lt.);agua mineral sin gas Salus;Agua ;Salus;Envase 2,25lt.;Envase;25.0;LT;mineral sin gas;Agua  mineral sin gas;;
-agua mineral sin gas Salus (envase 6,25lt.);agua mineral sin gas Salus;Agua ;Salus;Envase 6,25lt.;Envase;6.25;LT;mineral sin gas;Agua  mineral sin gas;;
-agua mineral sin gas Vitale (envase 2,5lt.);agua mineral sin gas Vitale;Agua ;Vitale;Envase 2,5lt.;Envase;5.0;LT;mineral sin gas;Agua  mineral sin gas;;
-Agua mineral sin gas(bidón) Nativa 6lts;Agua mineral sin gas(bidón) Nativa;Agua ;Nativa;Envase 6 lts;Envase;6.0;LT;mineral sin gas bidon;Agua  mineral sin gas bidon;;
-Agua mineral sin gas(bidón) Salus 6,25lts;Agua mineral sin gas(bidón) Salus;Agua ;Salus;Envase 6,25lts;Envase;6.25;LT;mineral sin gas bidon;Agua  mineral sin gas bidon;;
+agua mineral con gas Matutina (envase 2,5 lt.);agua mineral con gas Matutina;Agua;Matutina;Envase 2,5 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
+agua mineral con gas Nativa (envase 2,5 lt.);agua mineral con gas Nativa;Agua;Nativa;Envase 2,5 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
+agua mineral con gas Salus (envase 2,25 lt.);agua mineral con gas Salus;Agua;Salus;Envase 2,25 lt.;Envase;2.25;LT;mineral con gas;Agua  mineral con gas;;
+agua mineral sin gas Matutina (envase 2,5lt.);agua mineral sin gas Matutina;Agua;Matutina;Envase 2,5lt.;Envase;5.0;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Nativa (envase 6lt.);agua mineral sin gas Nativa;Agua;Nativa;Envase 6lt.;Envase;6.0;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Salus (envase 2,25lt.);agua mineral sin gas Salus;Agua;Salus;Envase 2,25lt.;Envase;25.0;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Salus (envase 6,25lt.);agua mineral sin gas Salus;Agua;Salus;Envase 6,25lt.;Envase;6.25;LT;mineral sin gas;Agua  mineral sin gas;;
+agua mineral sin gas Vitale (envase 2,5lt.);agua mineral sin gas Vitale;Agua;Vitale;Envase 2,5lt.;Envase;5.0;LT;mineral sin gas;Agua  mineral sin gas;;
+Agua mineral sin gas(bidón) Nativa 6lts;Agua mineral sin gas(bidón) Nativa;Agua;Nativa;Envase 6 lts;Envase;6.0;LT;mineral sin gas bidon;Agua  mineral sin gas bidon;;
+Agua mineral sin gas(bidón) Salus 6,25lts;Agua mineral sin gas(bidón) Salus;Agua;Salus;Envase 6,25lts;Envase;6.25;LT;mineral sin gas bidon;Agua  mineral sin gas bidon;;
 aguja con hueso Sin marca (1 kg.);aguja con hueso Sin marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Aguja vacuna Con Hueso;;
 aguja sin hueso Sin marca (1 kg.);aguja sin hueso Sin marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Sin Hueso;Aguja vacuna Sin Hueso;;
 Aguja vacuna Con Hueso - Sin Marca 1 kg.;Aguja vacuna Con Hueso - Sin Marca;Aguja vacuna;Genérico;1 kg.;Para Empaquetar;1.0;KG;Con Hueso;Aguja vacuna Con Hueso;;
@@ -156,11 +156,11 @@ Galletitas al agua Famosa Paquete 140 grs.;Galletitas al agua Famosa;Galletas ;F
 Galletitas al agua Maestro Cubano Paquete 120 grs.;Galletitas al agua Maestro Cubano;Galletas ;Maestro Cubano;Empaque 120 grs.;Empaque;120.0;GR;saladas al agua;Galletas  saladas al agua;;
 Gasa estéril 40 us.;Gasa estéril;Gasa esteril;Genérico;Empaque 40 Unidades;Empaque;40.0;UNIDADES;;Gasa esteril ;;
 gasa esteril gasa esteril Sin marca (40 unidades);gasa esteril gasa esteril Sin marca;Gasa esteril;Genérico;Empaque 40 Unidades;Empaque;40.0;UNIDADES;;Gasa esteril ;;
-gaseosa cola Coca-cola (botella 1,5 lt.);gaseosa cola Coca-cola;Gaseosa cola;Coca-Cola;Envase 1,5 lt.;Envase;1.5;LT;;Gaseosa cola ;;
-gaseosa cola Coca-cola (botella 2,25.lt.);gaseosa cola Coca-cola;Gaseosa cola;Coca-Cola;Envase 2,25.lt.;Envase;2.5;LT;;Gaseosa cola ;;
-gaseosa cola Pepsi-cola (botella 1,5 lt.);gaseosa cola Pepsi-cola;Gaseosa cola;Pepsi;Envase 1,5 lt.;Envase;1.5;LT;;Gaseosa cola ;;
-gaseosa cola Pepsi-cola (botella 2 lt.);gaseosa cola Pepsi-cola;Gaseosa cola;Pepsi;Envase 2 lt.;Envase;2.0;LT;;Gaseosa cola ;;
-Gaseosa tipo cola (env. no ret.) Coca Cola Botella 1,5 lt.;Gaseosa tipo cola (env. no ret.) Coca Cola;Gaseosa cola ;Coca-Cola;Envase 1,5 lt.;Envase;1.5;LT;env no ret;Gaseosa cola  env no ret;;
+gaseosa cola Coca-cola (botella 1,5 lt.);gaseosa cola Coca-cola;Gaseosa cola;Coca-Cola;Envase 1,5 lt.;Envase;1.5;LT;;Gaseosa cola;;
+gaseosa cola Coca-cola (botella 2,25.lt.);gaseosa cola Coca-cola;Gaseosa cola;Coca-Cola;Envase 2,25.lt.;Envase;2.5;LT;;Gaseosa cola;;
+gaseosa cola Pepsi-cola (botella 1,5 lt.);gaseosa cola Pepsi-cola;Gaseosa cola;Pepsi;Envase 1,5 lt.;Envase;1.5;LT;;Gaseosa cola;;
+gaseosa cola Pepsi-cola (botella 2 lt.);gaseosa cola Pepsi-cola;Gaseosa cola;Pepsi;Envase 2 lt.;Envase;2.0;LT;;Gaseosa cola;;
+Gaseosa tipo cola (env. no ret.) Coca Cola Botella 1,5 lt.;Gaseosa tipo cola (env. no ret.) Coca Cola;Gaseosa cola;Coca-Cola;Envase 1,5 lt.;Envase;1.5;LT;env no ret;Gaseosa cola  env no ret;;
 Gaseosa tipo cola (env. no ret.) Coca Cola_ Botella 2,25.lt.;Gaseosa tipo cola (env. no ret.) Coca Cola_;Gaseosa cola;Coca-Cola;Envase 2,25.lt.;Envase;2.5;LT;env no ret;Gaseosa cola env no ret;;
 Gaseosa tipo cola (env. no ret.) Pepsi Botella 1,5 lt.;Gaseosa tipo cola (env. no ret.) Pepsi;Gaseosa cola;Pepsi;Envase 1,5 lt.;Envase;1.5;LT;env no ret;Gaseosa cola env no ret;;
 Gaseosa tipo cola (env. no ret.) Pepsi Botella 2 lt.;Gaseosa tipo cola (env. no ret.) Pepsi;Gaseosa cola;Pepsi;Envase 2 lt.;Envase;2.0;LT;env no ret;Gaseosa cola env no ret;;
@@ -191,7 +191,7 @@ Harina trigo común 0000 Cañuelas Paquete 1 kg.;Harina trigo común 0000 Cañuelas;
 Harina trigo común 0000 Cololó Paquete 1 kg.;Harina trigo común 0000 Cololó;Harina de trigo;Cololó;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
 Harina trigo común 0000 Granja La Sonrisa Paquete 1 kg.;Harina trigo común 0000 Granja La Sonrisa;Harina de trigo;Granja La Sonrisa;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
 Harina trigo común 0000 Marca Propia Paquete 1 kg.;Harina trigo común 0000 Marca Propia;Harina de trigo;Marca Propia;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
-Harina trigo común 0000 Marcas Propias Paquete 1 kg.;Harina trigo común 0000 Marcas Propias;Harina de trigo;Marcas Propias;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
+Harina trigo común 0000 Marcas Propias Paquete 1 kg.;Harina trigo común 0000 Marca Propia;Harina de trigo;Marca Propia;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
 Harina trigo común 0000 Precio Líder Paquete 1 kg.;Harina trigo común 0000 Precio Líder;Harina de trigo;Precio Lider;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
 Harina trigo común 0000 Primor Paquete 1 kg.;Harina trigo común 0000 Primor;Harina de trigo;Primor;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
 Harina trigo común 0000 Tata Paquete 1 kg.;Harina trigo común 0000 Tata;Harina de trigo;Tata;Empaque 1 kg.;Empaque;1.0;KG;Común 0000;Harina de trigo Común 0000;1;4
@@ -382,7 +382,7 @@ Talco Xanapie Aerosol, 175 ml.;Talco Xanapie Aerosol;Talco;Xanapie;Envase 175 ml
 Talco Xanapie Bolsa Repuesto, 180 grs.;Talco Xanapie Bolsa Repuesto;Talco;Xanapie;Envase 180 grs.;Envase;180.0;GR;Bolsa Repuesto;Talco Bolsa Repuesto;;
 talco comun Johnson & johnson (200 grs.);talco comun Johnson & johnson;Talco;Johnson & Johnson;Envase 200 grs.;Envase;200.0;GR;Común;Talco Común;;
 talco comun Xanapie (175 ml.);talco comun Xanapie;Talco comun;Xanapie;Envase 175 ml.;Envase;175.0;ML;;Talco comun ;;
-talco comun Xanapie (180 grs.);talco comun Xanapie;Talco ;Xanapie;Envase 180 grs.;Envase;180.0;GR;Común;Talco  Común;;
+talco comun Xanapie (180 grs.);talco comun Xanapie;Talco;Xanapie;Envase 180 grs.;Envase;180.0;GR;Común;Talco  Común;;
 Té negro en saquitos Hornimans Caja 10 us.;Té negro en saquitos Hornimans;Te saquitos;Hornimans;Empaque 10 Unidades;Empaque;10.0;UNIDADES;negro;Te saquitos negro;;
 Té negro en saquitos La Virginia Caja 10 us.;Té negro en saquitos La Virginia;Te saquitos;La Virginia;Empaque 10 Unidades;Empaque;10.0;UNIDADES;negro;Te saquitos negro;;
 Té negro en saquitos President Caja 10 us.;Té negro en saquitos President;Te saquitos;President;Empaque 10 Unidades;Empaque;10.0;UNIDADES;negro;Te saquitos negro;;
